@@ -1,0 +1,152 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-plus-uk.png", STAR Plus HD
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-bharat-in.png", Star Bharat HD
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/zee-tv-ru.png", Zee TV HD
+http://103.182.170.32:8888/play/a04r
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/colors-uk.png", Colors HD
+http://103.72.198.82:7001/play/a00p
+#EXTINF:-1 group-title="git" tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png", &TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv", SONY HD
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758723792~acl=%2f*~id=dbe94eec-5741-414a-bf48-54b65b92202b~data=hdntl~hmac=781308cb0193ee08dee744c39586e363ce53477d4c1e93a94823b45db6c82f30/master_3500.m3u8
+#EXTINF: -1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony Liv", SAB HD
+https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF: -1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv", SONY PAL
+https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/star-channel-il.png", Star Utsav Movies
+http://116.90.120.149:8000/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="India",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/colors-infinity-hd-in.png", Colors Infinity HD
+http://103.72.198.82:7001/play/a03l
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/disney-channel-int.png", Disney International HD
+http://103.182.170.32:8888/play/a01y
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/zee-tv-ru.png", Zee Cafe HD
+http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 group-title="brute", SURF | Comedy Central HD - Pakistan - b-c5a049
+http://103.31.103.218:8000/play/a0hv/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-gold-2-in.png", STAR GOLD HD
+http://103.72.198.82:7001/play/a02a
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-gold-2-in.png", Star Gold 2 HD
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-hd-in.png", Zee Cinema HD
+http://103.72.198.82:7001/play/a014
+#EXTINF: -1 tvg-id="1000009247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv", SONY MAX HD
+https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv", SONY WAH
+https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF: -1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv", SONY MAX2
+https://dish.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF: -1 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv", SONY PIX HD
+https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/star-movies-mea.png", STAR Movies HD
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7flix-au.png", &amp;flix HD
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-select-hd-in.png", STAR Movies Select HD
+http://103.72.198.82:7001/play/a02s
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/movies-now-in.png", Movies Now HD
+http://103.182.170.32:8888/play/a01n
+#EXTINF:-1 group-title="brute", MN+ HD
+http://116.90.120.149:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/mnx-in.png", MNX HD
+http://116.90.120.149:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/romedy-now-in.png", Romedy Now
+http://175.107.244.52:4455/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="brute", &amp;Prive HD
+http://103.72.198.82:7001/play/a033
+
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/dd-india-hd-in.png", DD India HD
+http://202.164.50.194:8000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific
+https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png", Bloomberg HD
+http://185.207.34.113:8000/play/a003
+#EXTINF:-1 group-title="brute", 50-097-Al Jazeera English HD - Pakistan - b-3fb928
+http://103.147.87.50:8001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/national-geographic-hd-es.png", NATIONAL GEOGRAPHIC HD
+http://103.72.198.82:7001/play/a02x
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/discovery-science-hd-ca.png", DISCOVERY SCIENCE
+http://119.152.240.15:8000/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="brute", TS | HISTORY TV18 HD
+http://103.31.103.218:8000/play/a07i/index.m3u8
+#EXTINF: -1 tvg-id="821" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sony Liv", BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tlc-int.png", TLC HD
+http://103.182.170.32:8888/play/a01q
+
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/dd-sports-in.png", DD SPORTS HD
+http://202.164.50.194:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-1-in.png", Star Sports 1 HD
+http://103.72.198.82:7001/play/a00o
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-2-in.png", Star Sports 2 HD
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-1-hindi-in.png", Star Sports 1 Hindi HD
+http://103.72.198.82:7001/play/a00s
+#EXTINF: -1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Liv", SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF: -1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony Liv", SONY TEN 1 HD
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF: -1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sony Liv", SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF: -1 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony Liv", SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF: -1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Sony Liv", SONY TEN 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF: -1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sony Liv", SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF: -1 tvg-id="1000009280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sony Liv", SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF: -1 tvg-id="1000009279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sony Liv", SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF: -1 tvg-id="1000009283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sony Liv", SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF: -1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sony Liv", SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/hungama-in.png", Hungama
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1 group-title="brute", TS | Disney Channel HD
+http://103.31.103.218:8000/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="line" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nick-ca.png", Nick HD+
+http://103.68.28.58:5001/live/1226.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cartoon-network-hd-int.png", Cartoon Network HD+
+http://103.182.170.32:8888/play/a035
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/pogo-in.png", Pogo
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Kids
+http://103.72.198.82:7001/play/a02g
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-turbo-uk.png", Discovery Turbo
+http://103.111.40.38:7777/play/a03x/index.m3u8
+
+#EXTINF:-1 group-title="brute", NHK WORLD-JPN
+http://202.164.50.196:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/france-24-int.png", France 24 HD
+http://213.230.65.254:8000/play/a019
+
+#EXTINF:-1 group-title="git" tvg-id="ABCAustralia.au@Vietnam" tvg-logo="https://i.imgur.com/qQ33TVM.png", ABC Australia
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/france-24-int.png", FRANCE 24 HD
+http://212.32.241.201:8000/play/a03u
+#EXTINF:-1 group-title="line", Al Jazeera English
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 group-title="line", WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:0 tvg-country="us" tvg-logo="https://images.iptvmate.net/playlists/25000.jpg" group-title="United States of America",Comedy Central HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731?source:iptvmate.net
+#EXTINF:0 tvg-country="us" tvg-logo="https://images.iptvmate.net/playlists/25857.jpg" group-title="United States of America",Comedy Central HD US
+http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/4882?source:iptvmate.net
