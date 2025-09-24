@@ -25,7 +25,7 @@ http://103.72.198.82:7001/play/a00p
 #EXTINF:-1 group-title="git" tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png", &TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv", SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758723792~acl=%2f*~id=dbe94eec-5741-414a-bf48-54b65b92202b~data=hdntl~hmac=781308cb0193ee08dee744c39586e363ce53477d4c1e93a94823b45db6c82f30/master_3500.m3u8
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758810192~acl=%2f*~id=59889cf0-e985-420f-a12e-060c38b4df61~data=hdntl~hmac=9624b59574a1a8fd67733cc578379f6f811916b9bab1c089b4e9f339f09afa39/master_3500.m3u8
 #EXTINF: -1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony Liv", SAB HD
 https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF: -1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv", SONY PAL
@@ -107,7 +107,7 @@ http://103.72.198.82:7001/play/a00s
 #EXTINF: -1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Liv", SONY SIX HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF: -1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony Liv", SONY TEN 1 HD
-https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1758810192~acl=%2f*~id=59889cf0-e985-420f-a12e-060c38b4df61~data=hdntl~hmac=9624b59574a1a8fd67733cc578379f6f811916b9bab1c089b4e9f339f09afa39/master_3500.m3u8
 #EXTINF: -1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sony Liv", SONY TEN 2 HD
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF: -1 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony Liv", SONY TEN 3 HD
@@ -162,4 +162,5 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-country="us" tvg-logo="https://images.iptvmate.net/playlists/25857.jpg" group-title="United States of America",Comedy Central HD US
 
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/4882?source:iptvmate.net
+
 
