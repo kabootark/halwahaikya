@@ -47,7 +47,7 @@ https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF: -1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv", SONY MAX2
 https://dish.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF: -1 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv", SONY PIX HD
-https://dish.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/hdntl=exp=1758896593~acl=%2f*~id=28862cab-4ee5-4112-982f-815dafc5fab8~data=hdntl~hmac=c364d963d5c9874ab2bd49b439c10c7856083d1dbcc06abe932b236cd0581a89/master_3500.m3u8
 
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/star-movies-mea.png", STAR Movies HD
 http://103.182.170.32:8888/play/a029
@@ -154,6 +154,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-country="us" tvg-logo="https://images.iptvmate.net/playlists/25857.jpg" group-title="United States of America",Comedy Central HD US
 
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/4882?source:iptvmate.net
+
 
 
 
