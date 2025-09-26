@@ -16,8 +16,9 @@ http://103.182.170.32:8888/play/a04r
 http://103.72.198.82:7001/play/a00p
 #EXTINF:-1 group-title="git" tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png", &TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv", SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758896593~acl=%2f*~id=28862cab-4ee5-4112-982f-815dafc5fab8~data=hdntl~hmac=c364d963d5c9874ab2bd49b439c10c7856083d1dbcc06abe932b236cd0581a89/master_3500.m3u8
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SET-HD-New-Logo.png" group-title="Entertainment" , Sօɲү SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758943808~acl=%2f*~id=617f40ae4a144d99832552254343842f-1758857374667~data=hdntl~hmac=2c0b93d567f988b0da3ade4ec342c266d6f694901d1340c0a82390269334a8a0/master_3500.m3u8
 #EXTINF: -1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony Liv", SAB HD
 https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF: -1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv", SONY PAL
@@ -154,6 +155,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-country="us" tvg-logo="https://images.iptvmate.net/playlists/25857.jpg" group-title="United States of America",Comedy Central HD US
 
 http://mag.seiptv.itv.world:8080/xusrktiyfb/duf5s0d9fo/4882?source:iptvmate.net
+
 
 
 
