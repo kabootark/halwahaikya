@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #DATE: Saturday 27 September, 2025 at 01:30:35 pm
 #FETCHED_AT: 2025-09-27T12:13:25.417Z
@@ -164,6 +162,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 
 
 
