@@ -8,8 +8,7 @@
 #EXTINF:-1 tvg-id="1090490832" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | India vs Pakistan - Final - 28 Sep 2025
 https://liveakmt-p.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759102208~acl=/*~id=4a87c78660784ad4828d35c4e5a7a8c6-1759058972988~hmac=08ef64b66a45f4e78171b2b70315935a25dac5cf16c87dd515d4330f3b67756f
 #EXTINF:-1 tvg-id="1090490832" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | India vs Pakistan - Final - 28 Sep 2025
-https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759102208~acl=/*~id=4a87c78660784ad4828d35c4e5a7a8c6-1759058972988~hmac=08ef64b66a45f4e78171b2b70315935a25dac5cf16c87dd515d4330f3b67756f
-
+https://livecfdai-par-mp.slivcdn.com/out/v1/312e886defb245b79cb004e6604db172/std_lrl-800300010_4.m3u8?hdntl=exp=1759116935~acl=*~hmac=ef72347719d50d32df7cd0ae6e2558ef6fb1d448f605b70f51657dd3c79da056&originpath=/linear/hls/pb/event/QONEGTHmTZm-7xb7l4by3Q/stream/a5bd032c-766f-487f-ba05-db6426555c77:TPE2/variant/e83f821fa6f458130fa4ce213409beaa/bandwidth/4055040.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759060204~acl=/*~id=0813c225780d4ff5bb8fb02cca0353db-1759016969032~hmac=9f117c00617c41a0540f33866ed61d4e008efe45b0ef12e8b1843db62643d5a0
 #EXTINF:-1 tvg-id="1000009276" tvg-name="SONY TEN 1 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",SONY TEN 1 HD
@@ -131,6 +130,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 
 
 
