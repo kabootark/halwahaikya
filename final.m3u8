@@ -6,7 +6,7 @@
 
 
 #EXTINF:-1 tvg-id="1090486148" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009617/1759155617128180_KBC25_simulcast_29sep_landscape_Thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati - Season 17
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1759190411~acl=/*~id=45aee76dbbb94fcb869ff57d4edd4d16-1759147175203~hmac=c48a2ebada3a4e58be97bd1a2a4bdb7c0f0a5e7cad8462ce2a91b0f6000961b5
+https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1759274405~acl=/*~id=bb642d6c7d414460812658d7b594a2ef-1759231168635~hmac=b44ef19a30c3a4e82e1db42f39c89810954a099fff3442fb75b454b55f7bfd32
 
 
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
@@ -130,6 +130,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 
 
 
