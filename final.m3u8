@@ -10,7 +10,7 @@ https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-8003000
 
 
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759161006~acl=/*~id=e3a6ff0d225a4531a6fcb21eb6de7d4f-1759117770169~hmac=a50403d3566c99d17d8336029316b52265ff41555a924e742f74ce400dd0ca5a
+https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759253408~acl=/*~id=1cb7a3f6541b453d8e1a71f06c32d115-1759210171304~hmac=c1be938207a8f4d10735e334c76e97074ef42c14424735c08201b21c1b7673c6
 #EXTINF:-1 tvg-id="1000009276" tvg-name="SONY TEN 1 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",SONY TEN 1 HD
 https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-155/2x9w-00ux_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="1000009277" tvg-name="SONY TEN 2 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2 HD
@@ -130,6 +130,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 
 
 
