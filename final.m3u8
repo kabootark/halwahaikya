@@ -4,19 +4,8 @@
 #DATE: Saturday 27 September, 2025 at 01:30:35 pm
 #FETCHED_AT: 2025-09-27T12:13:25.417Z
 
-
-#EXTINF:-1 tvg-id="1090486148" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008049/1757657348121358_kbc25_simulcast_Landscape_thumb_12sep.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati - Season 17
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1759366810~acl=/*~id=c2be4b55799a4b38a1275d04377eba50-1759323573533~hmac=30c7464900a6bb431850eff8632c2340379c3a46dd12e5c86c381d5006dc72b4
-
-
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759312206~acl=/*~id=f38d219ece5943c680c20dbaea6b2261-1759268968962~hmac=169e34c7ffa69456a83abbe7d299684b33cc18da60563e3e53fb337e7cb2e2ef
-
-#EXTINF:-1 tvg-id="1000009276" tvg-name="SONY TEN 1 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",SONY TEN 1 HD
-https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-155/2x9w-00ux_1080p/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="1000009277" tvg-name="SONY TEN 2 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1759060204~acl=/*~id=0813c225780d4ff5bb8fb02cca0353db-1759016969032~hmac=9f117c00617c41a0540f33866ed61d4e008efe45b0ef12e8b1843db62643d5a0
-
+https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759438205~acl=/*~id=b45120f4a1b14cea8f35a06185c8807e-1759394968918~hmac=29466f2f08eb6d04c0f8b2d663b8c54a2732df1c422b9b4d977a8d666747fd06
 
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-plus-uk.png", STAR Plus HD
 http://103.182.170.32:8888/play/a03z
@@ -131,6 +120,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 
 
 
