@@ -37,4 +37,5 @@ jobs:
           git add -A
           # The '|| exit 0' part ensures that if there are no changes, the workflow doesn't fail
           git commit -m "Automated daily channel link update" || exit 0
-          git push
+          # This is the new, corrected push command that uses your secret
+          git push https://${{ secrets.GH_PAT }}@github.com/kabootark/halwahaikya.git HEAD:main
