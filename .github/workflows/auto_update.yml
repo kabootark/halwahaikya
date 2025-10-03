@@ -11,9 +11,12 @@ jobs:
   update-links:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Check out the repository's code
+      # Step 1: Check out the repository using your PAT
+      # This is the key change. We are giving the token to the checkout action.
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       # Step 2: Set up the Python environment
       - name: Set up Python
@@ -29,7 +32,7 @@ jobs:
       - name: Run the update script
         run: python update_links.py
 
-      # Step 5: Commit the changes back to the repository
+      # Step 5: Commit and push changes
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -37,5 +40,5 @@ jobs:
           git add -A
           # The '|| exit 0' part ensures that if there are no changes, the workflow doesn't fail
           git commit -m "Automated daily channel link update" || exit 0
-          # This is the new, corrected push command that uses your secret
-          git push https://${{ secrets.GH_PAT }}@github.com/kabootark/halwahaikya.git HEAD:main
+          # Now a simple 'git push' will work because the credentials are set
+          git push
