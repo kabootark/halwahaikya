@@ -1,11 +1,16 @@
 #EXTM3U
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#DATE: Saturday 27 September, 2025 at 01:30:35 pm
-#FETCHED_AT: 2025-09-27T12:13:25.417Z
 
-#EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759438205~acl=/*~id=b45120f4a1b14cea8f35a06185c8807e-1759394968918~hmac=29466f2f08eb6d04c0f8b2d663b8c54a2732df1c422b9b4d977a8d666747fd06
+
+
+
+##--!!--## START AUTO-UPDATE ##--!!--##
+##--!!--## END AUTO-UPDATE ##--!!--##
+
+
+
+
+
 
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-plus-uk.png", STAR Plus HD
 http://103.182.170.32:8888/play/a03z
@@ -120,6 +125,7 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+
 
 
 
