@@ -3,7 +3,7 @@ name: Daily M3U8 Link Updater
 on:
   schedule:
     # This is scheduled to run at 15:27 UTC, which is 8:57 PM IST
-    - cron: '27 * * * *'
+    - cron: '15 * * * *'
   # This line allows you to manually run the workflow from the Actions tab on GitHub
   workflow_dispatch:
 
