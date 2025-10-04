@@ -52,7 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1759542605~acl=/*~id=d11fdac8dea64792a155cc4006917640-1759499367896~hmac=730c9fa86890952ef629a1d8651d83a444f4c97ee8170327b90c2b20cd796f23
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1759542605~acl=/*~id=d11fdac8dea64792a155cc4006917640-1759499367896~hmac=730c9fa86890952ef629a1d8651d83a444f4c97ee8170327b90c2b20cd796f23
-#DATE:- Saturday 04 October at 2025 at 02:14:04 am
+#DATE:- Saturday 04 October at 2025 at 09:00:06 am
+#EXTINF:-1 tvg-id="1090491605" tvg-name="World Para Athletics, New Delhi" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893155783701_World_Para_Athletics_Championships_2025_DAY_8_landscape_thumb.jpg" tvg-language="English" group-title="Sports",ENG | Day 8 - 4 Oct 2025 
+https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759576206~acl=/*~id=2acd294a6d0d450795c16f75d59353e9-1759532968616~hmac=ca6a10b84c8a9afb56f39a5e28bee6791a0d180307ccd30d44d3d1425e359a4c
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
