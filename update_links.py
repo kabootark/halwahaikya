@@ -27,39 +27,47 @@ M3U8_FILE = "final.m3u8"
 START_MARKER = "##--!!--## START AUTO-UPDATE ##--!!--##"
 END_MARKER = "##--!!--## END AUTO-UPDATE ##--!!--##"
 
-# UPDATED: This function now correctly parses multi-line entries and discards unwanted lines.
+# UPDATED: This function now keeps the entire block for a matched channel, including all lines.
 def filter_specific_channels(content, channels_to_keep):
     """
-    Parses M3U content and returns a new string containing only the desired channels.
-    It finds a matching #EXTINF line, keeps it, and then finds the next http URL,
-    skipping any intermediate lines like #EXTVLCOPT.
+    Parses M3U content and keeps the entire, unmodified element for each desired channel.
+    An element includes the #EXTINF line and all subsequent lines until the next #EXTINF.
     """
     lines = content.split('\n')
     filtered_lines = []
     
-    # Iterate through lines with an index to look ahead
-    for i, line in enumerate(lines):
-        # A channel entry starts with #EXTINF
-        if line.strip().startswith("#EXTINF"):
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        
+        if line.startswith("#EXTINF"):
             try:
                 channel_name = line.split(',')[-1].strip()
                 # Check if this is a channel we want to keep
                 if any(target.lower() in channel_name.lower() for target in channels_to_keep):
-                    # It's a match! Keep the #EXTINF line.
-                    filtered_lines.append(line)
-                    
-                    # Now, search ahead for the stream URL, starting from the next line
-                    for next_line in lines[i + 1:]:
-                        # The URL is the first subsequent line that starts with http
-                        if next_line.strip().startswith("http"):
-                            filtered_lines.append(next_line)
-                            # We've found the URL for this channel, so break the inner loop
+                    # Match found! Now, copy all lines until the next #EXTINF.
+                    block_end_index = len(lines)
+                    for j in range(i + 1, len(lines)):
+                        if lines[j].strip().startswith("#EXTINF"):
+                            block_end_index = j
                             break
+                    
+                    # Add the entire block to our filtered list
+                    channel_block = lines[i:block_end_index]
+                    filtered_lines.extend(channel_block)
+                    
+                    # Jump the main index past this block to avoid re-checking
+                    i = block_end_index
+                    continue
             except IndexError:
-                # If the #EXTINF line is malformed, just skip it
-                continue
-    
-    found_count = len(filtered_lines) // 2
+                # Malformed #EXTINF line, skip it
+                pass
+        
+        # Move to the next line if no match was found
+        i += 1
+            
+    # Count how many channels were actually found and kept
+    found_count = sum(1 for line in filtered_lines if line.strip().startswith("#EXTINF"))
     print(f"Filter complete. Found and kept {found_count} of the targeted channels.")
     return '\n'.join(filtered_lines)
 
