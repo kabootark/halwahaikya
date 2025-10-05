@@ -113,8 +113,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3
 http://103.182.170.32:8888/play/a03z
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-bharat-in.png", Star Bharat HD
 http://103.182.170.32:8888/play/a033
-#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/zee-tv-ru.png", Zee TV HD
-http://103.182.170.32:8888/play/a04r
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/colors-uk.png", Colors HD
 http://103.72.198.82:7001/play/a00p
 #EXTINF:-1 group-title="git" tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png", &TV
@@ -129,24 +127,16 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 http://103.72.198.82:7001/play/a03l
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/disney-channel-int.png", Disney International HD
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/zee-tv-ru.png", Zee Cafe HD
-http://103.182.170.32:8888/play/a01w
 #EXTINF:-1 group-title="brute", SURF | Comedy Central HD - Pakistan - b-c5a049
 http://103.31.103.218:8000/play/a0hv/index.m3u8
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-gold-2-in.png", STAR GOLD HD
 http://103.72.198.82:7001/play/a02a
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-gold-2-in.png", Star Gold 2 HD
 http://103.182.170.32:8888/play/a01z
-#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-hd-in.png", Zee Cinema HD
-http://103.72.198.82:7001/play/a014
-#EXTINF: -1 tvg-id="1000009247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv", SONY MAX HD
-https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
 
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/star-movies-mea.png", STAR Movies HD
 http://103.182.170.32:8888/play/a029
-#EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7flix-au.png", &amp;flix HD
-http://103.182.170.32:8888/play/a02a
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-movies-select-hd-in.png", STAR Movies Select HD
 http://103.72.198.82:7001/play/a02s
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/movies-now-in.png", Movies Now HD
@@ -157,8 +147,6 @@ http://116.90.120.149:8000/play/a0cx/index.m3u8
 http://116.90.120.149:8000/play/a0d0/index.m3u8
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/romedy-now-in.png", Romedy Now
 http://175.107.244.52:4455/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="brute", &amp;Prive HD
-http://103.72.198.82:7001/play/a033
 
 #EXTINF:-1 group-title="brute" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/dd-india-hd-in.png", DD India HD
 http://202.164.50.194:8000/play/a05e/index.m3u8
@@ -218,8 +206,6 @@ https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
 http://212.32.241.201:8000/play/a03u
 #EXTINF:-1 group-title="line", Al Jazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 group-title="line", WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="git" tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
