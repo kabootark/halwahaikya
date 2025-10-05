@@ -2,24 +2,23 @@ import requests
 import re
 
 # --- Configuration ---
-# NEW: List of specific channels you want to keep from the filter source
+# List of specific channels you want to keep from the filter source
 TARGET_CHANNELS = [
     "Aaj Tak", "Zee News", "India Today", "&Prive HD", "Zee Business",
     "WION", "Zee Bharat", "Big Magic", "Zing", "Zee TV HD", "&TV HD",
     "Zee Café HD", "Zee Anmol Cinema 2", "Zee Anmol", "Zee Cinema HD",
     "&Pictures HD", "Zee Anmol Cinema", "Zee Bollywood", "&flix HD",
-
     "Zee Classic", "&xplorHD", "Zee Zest HD"
 ]
 
-# NEW: The URL of the source that needs to be filtered
+# The URL of the source that needs to be filtered
 FILTER_URL = "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u"
 
 # A list of URLs to download the new links from. The script will process them in this order.
 SOURCE_URLS = [
     "https://solii.saqlainhaider8198.workers.dev/",
     "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u",
-    FILTER_URL  # NEW: Added the new source to the list
+    FILTER_URL
 ]
 
 # The name of the M3U8 file in your repository
@@ -28,29 +27,34 @@ M3U8_FILE = "final.m3u8"
 START_MARKER = "##--!!--## START AUTO-UPDATE ##--!!--##"
 END_MARKER = "##--!!--## END AUTO-UPDATE ##--!!--##"
 
-# NEW: This function filters a raw M3U content string to keep only the target channels
+# UPDATED: This function now correctly parses multi-line entries and discards unwanted lines.
 def filter_specific_channels(content, channels_to_keep):
     """
     Parses M3U content and returns a new string containing only the desired channels.
-    An M3U entry typically consists of an #EXTINF line followed by a URL line.
+    It finds a matching #EXTINF line, keeps it, and then finds the next http URL,
+    skipping any intermediate lines like #EXTVLCOPT.
     """
     lines = content.split('\n')
     filtered_lines = []
     
-    # Iterate through the lines to find channel info
+    # Iterate through lines with an index to look ahead
     for i, line in enumerate(lines):
         # A channel entry starts with #EXTINF
         if line.strip().startswith("#EXTINF"):
-            # The channel name is usually the last part of this line, after the comma
             try:
                 channel_name = line.split(',')[-1].strip()
-                # Check if any of our target channel names appear in this line
+                # Check if this is a channel we want to keep
                 if any(target.lower() in channel_name.lower() for target in channels_to_keep):
-                    # If it's a match, keep this #EXTINF line
+                    # It's a match! Keep the #EXTINF line.
                     filtered_lines.append(line)
-                    # And also keep the next line, which is the stream URL
-                    if i + 1 < len(lines):
-                        filtered_lines.append(lines[i + 1])
+                    
+                    # Now, search ahead for the stream URL, starting from the next line
+                    for next_line in lines[i + 1:]:
+                        # The URL is the first subsequent line that starts with http
+                        if next_line.strip().startswith("http"):
+                            filtered_lines.append(next_line)
+                            # We've found the URL for this channel, so break the inner loop
+                            break
             except IndexError:
                 # If the #EXTINF line is malformed, just skip it
                 continue
@@ -66,19 +70,16 @@ def fetch_and_combine_content():
     for index, url in enumerate(SOURCE_URLS):
         try:
             response = requests.get(url)
-            response.raise_for_status()  # Raise an exception for bad status codes
+            response.raise_for_status()
             print(f"Successfully fetched content from {url}")
             content = response.text
             
-            # NEW: If the current URL is the one we need to filter, apply the filter
             if url == FILTER_URL:
                 print(f"Applying channel filter for {url}...")
                 content = filter_specific_channels(content, TARGET_CHANNELS)
             
             lines = content.split('\n')
             
-            # For the first file, we keep everything.
-            # For subsequent files, we skip the #EXTM3U header to avoid duplicates.
             if index == 0:
                 combined_content_lines.extend(lines)
             else:
@@ -88,7 +89,6 @@ def fetch_and_combine_content():
             
         except requests.exceptions.RequestException as e:
             print(f"Error fetching content from {url}: {e}")
-            # Continue to the next URL even if one fails
             continue
             
     return '\n'.join(combined_content_lines)
@@ -98,7 +98,6 @@ def clean_links(content):
     lines = content.split('\n')
     cleaned_lines = []
     for line in lines:
-        # If a line is a URL and contains a '|', truncate it
         if line.strip().startswith("https://") and '|' in line:
             cleaned_lines.append(line.split('|')[0])
         else:
