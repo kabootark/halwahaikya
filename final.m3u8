@@ -52,13 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1759698009~acl=/*~id=da25184f2eac4d9bacd14073043e6342-1759654769625~hmac=192a35c3cfe3028cc7e4fd170963d7688ec501e9e49701c23485cc80cb62404c
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1759698009~acl=/*~id=da25184f2eac4d9bacd14073043e6342-1759654769625~hmac=192a35c3cfe3028cc7e4fd170963d7688ec501e9e49701c23485cc80cb62404c
-#DATE:- Sunday 05 October at 2025 at 10:49:10 pm
-#EXTINF:-1 tvg-id="1090491643" tvg-name="India's Got Talent" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009858/1759572594791495_IGTS11_simulcast_4OCT_Landscape_Thumb.png" tvg-language="Hindi" group-title="Reality",HIN | India’s Got Talent 
-https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1759714805~acl=/*~id=7de295f2dc2c4b739b1fd0cbc4c464fc-1759671565358~hmac=70b75cb7719b758bafb0665f50fa84c6d05626133df28a4046fea2ce6d60c5e9
+#DATE:- Monday 06 October at 2025 at 12:00:17 am
 #EXTINF:-1 tvg-id="1090491787" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945545895789_bliga2526_MD6_mgladbach_vs_SC_Freiburg_2oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Borussia M'gladbach vs SC Freiburg - 5 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714805~acl=/*~id=7de295f2dc2c4b739b1fd0cbc4c464fc-1759671565358~hmac=70b75cb7719b758bafb0665f50fa84c6d05626133df28a4046fea2ce6d60c5e9
-#EXTINF:-1 tvg-id="1090491786" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009802/175945530483589_bliga2526_MD6_Hamburg_SV_vs_Mainz_2oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Hamburg SV vs Mainz - 5 Oct 2025
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759714805~acl=/*~id=7de295f2dc2c4b739b1fd0cbc4c464fc-1759671565358~hmac=70b75cb7719b758bafb0665f50fa84c6d05626133df28a4046fea2ce6d60c5e9
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
