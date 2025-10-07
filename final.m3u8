@@ -52,9 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1759874410~acl=/*~id=5c3278a681c64bd28e8400da3a385ce0-1759831168806~hmac=de1a19b2bd384c852981609abbb7ad2bb8a3114608dee8e7a7a88166c814e12a
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1759874410~acl=/*~id=5c3278a681c64bd28e8400da3a385ce0-1759831168806~hmac=de1a19b2bd384c852981609abbb7ad2bb8a3114608dee8e7a7a88166c814e12a
-#DATE:- Tuesday 07 October at 2025 at 10:56:05 pm
-#EXTINF:-1 tvg-id="1090486148" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati - Season 17
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master.m3u8?hdnea=exp=1759895405~acl=/*~id=00d8f7415aa04e019c6c35c5d459ab03-1759852164254~hmac=d2df880b30fc0608d9bdb6146792eb783a191afc3381736c3dbc1523a54d63c4
+#DATE:- Tuesday 07 October at 2025 at 11:00:06 pm
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
