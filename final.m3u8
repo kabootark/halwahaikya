@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #DATE: Wednesday 8 October, 2025 at 09:30:38 am
-#FETCHED_AT: 2025-10-08T05:28:22.460Z
+#FETCHED_AT: 2025-10-08T10:28:34.549Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1759924810~acl=/*~id=e7e836ae360d4ae183567e9277e32d81-1759881569453~hmac=39fae965bc374b281eeed9bf19b33c800c84e7a13a99824c85615878cf524488
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1759924810~acl=/*~id=e7e836ae360d4ae183567e9277e32d81-1759881569453~hmac=39fae965bc374b281eeed9bf19b33c800c84e7a13a99824c85615878cf524488
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1759924810~acl=/*~id=e7e836ae360d4ae183567e9277e32d81-1759881569453~hmac=39fae965bc374b281eeed9bf19b33c800c84e7a13a99824c85615878cf524488
-#DATE:- Wednesday 08 October at 2025 at 03:00:12 pm
+#DATE:- Wednesday 08 October at 2025 at 04:00:09 pm
+#EXTINF:-1 tvg-id="1090491804" tvg-name="ATP Masters 1000 - 2025 Shanghai Open" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Day 8 - 8 Oct 2025
+https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8?hdnea=exp=1759950010~acl=/*~id=e3c8db8d14e94e28b7befd955ebf612f-1759906768203~hmac=ba6ee87f61c08f5cdcc18a877e852abc86e82c58bea44628dc8b386a8626b6aa
 #EXTINF:-1 tvg-id="1090491806" tvg-name="Archery Premier League 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg" tvg-language="English" group-title="Archery",ENG | Day 7 - 8 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1759950010~acl=/*~id=e3c8db8d14e94e28b7befd955ebf612f-1759906768203~hmac=ba6ee87f61c08f5cdcc18a877e852abc86e82c58bea44628dc8b386a8626b6aa
 ##--!!--## END AUTO-UPDATE ##--!!--##
