@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #DATE: Thursday 9 October, 2025 at 06:10:24 pm
-#FETCHED_AT: 2025-10-09T14:20:10.613Z
+#FETCHED_AT: 2025-10-09T19:20:54.252Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1760050809~acl=/*~id=b3cbd2f6956f41afaf954f5b8664c522-1760007567358~hmac=9f0f2b681aa2fd8bed676f43cc0fcd013a327c8819e613bcf77ac64114d988e0
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1760050809~acl=/*~id=b3cbd2f6956f41afaf954f5b8664c522-1760007567358~hmac=9f0f2b681aa2fd8bed676f43cc0fcd013a327c8819e613bcf77ac64114d988e0
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1760050809~acl=/*~id=b3cbd2f6956f41afaf954f5b8664c522-1760007567358~hmac=9f0f2b681aa2fd8bed676f43cc0fcd013a327c8819e613bcf77ac64114d988e0
-#DATE:- Friday 10 October at 2025 at 12:07:11 am
+#DATE:- Friday 10 October at 2025 at 12:49:11 am
 #EXTINF:-1 tvg-id="1090491969" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599290415527_UEFA_INT_Friendlies_England_vs_Wales_4oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | England vs Wales - 10 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760076010~acl=/*~id=88823916f22b4c4cbb9f05b15eb873bc-1760032767682~hmac=60ad7b1fa758c3a50f400b34bba5f7a3ae67fe6262fff41388092ccbde728142
 #EXTINF:-1 tvg-id="1090491928" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009832/1759484986149629_EQ_25_26_MD7_Malta_vs_Netherlands_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Malta vs Netherlands - MD 7 - 10 Oct 2025
