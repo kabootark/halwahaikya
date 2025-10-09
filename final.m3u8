@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #DATE: Thursday 9 October, 2025 at 07:40:31 am
-#FETCHED_AT: 2025-10-09T04:19:31.783Z
+#FETCHED_AT: 2025-10-09T09:19:43.702Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1760017205~acl=/*~id=5ccd333e4d574a6f8a67d6147e58ddbd-1759973962883~hmac=a9ecdd7dd7bffb3905de00f219a283492bad336b9d70ef1f712d9fb7beb6498f
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1760017205~acl=/*~id=5ccd333e4d574a6f8a67d6147e58ddbd-1759973962883~hmac=a9ecdd7dd7bffb3905de00f219a283492bad336b9d70ef1f712d9fb7beb6498f
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1760017205~acl=/*~id=5ccd333e4d574a6f8a67d6147e58ddbd-1759973962883~hmac=a9ecdd7dd7bffb3905de00f219a283492bad336b9d70ef1f712d9fb7beb6498f
-#DATE:- Thursday 09 October at 2025 at 02:00:09 pm
+#DATE:- Thursday 09 October at 2025 at 02:56:10 pm
 #EXTINF:-1 tvg-id="1090491864" tvg-name="ATP Masters 1000 - 2025 Shanghai Open" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Rune vs Vacherot - Quarterfinal - 9 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760029808~acl=/*~id=240c255d596c4b7ba807195b1a4943ed-1759986563548~hmac=f07cf9295595d9bd1cb03bef83c0fb1dc220923f5cf82252e31751215261946b
 ##--!!--## END AUTO-UPDATE ##--!!--##
