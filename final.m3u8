@@ -52,9 +52,13 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1760188206~acl=/*~id=dd8775e471e94042a76cf8566888e383-1760145004675~hmac=fbc32dcc3fa3d11390c489058f9d646c8cd0c8a3cd48c4161d73caf76b26e23f
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1760188206~acl=/*~id=dd8775e471e94042a76cf8566888e383-1760145004675~hmac=fbc32dcc3fa3d11390c489058f9d646c8cd0c8a3cd48c4161d73caf76b26e23f
-#DATE:- Saturday 11 October at 2025 at 04:49:12 pm
+#DATE:- Saturday 11 October at 2025 at 06:14:06 pm
 #EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d
+#EXTINF:-1 tvg-id="1090492068" tvg-name="Extreme E 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010040/1760014223501839_Extreme_E_and_Extreme_H_WC25_day3_9oct_landscape_thumb.jpg" tvg-language="English" group-title="Racing",ENG | Day 3 - Extreme H World Cup - 11 Oct 2025
+https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d
+#EXTINF:-1 tvg-id="1090492075" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Latvia vs Andorra - MD 7 - 11 Oct 2025
+https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760217605~acl=/*~id=d674e989922744019772f8103fa91608-1760174403790~hmac=dab6c1d8566fd8f80fb2e4d4594aecce60e5ff39429aff98e68dba32c7a3317d
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
