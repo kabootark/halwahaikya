@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1760226005~acl=/*~id=cf17486698d54bdab7e9bc55b0fb9212-1760182803623~hmac=8a6c92dcdd5aa12a7ab10f82294f94df004d3e8acd238a6ed03781a8276288ab
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1760226005~acl=/*~id=cf17486698d54bdab7e9bc55b0fb9212-1760182803623~hmac=8a6c92dcdd5aa12a7ab10f82294f94df004d3e8acd238a6ed03781a8276288ab
-#DATE:- Monday 13 October at 2025 at 12:00:07 am
+#DATE:- Monday 13 October at 2025 at 12:49:08 am
 #EXTINF:-1 tvg-id="1090492145" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759544693314839_EQ2526_MD8_Croatia_vs_Gibraltar_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Croatia vs Gibraltar - MD 8 - 13 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI39ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89
 #EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
@@ -63,8 +63,6 @@ https://sonymtmnew.akamaized.net/hls/live/2022318/DAI40ME-V3/std_lrh-800300010.m
 https://sonymtmnew.akamaized.net/hls/live/2022317/DAI42ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89
 #EXTINF:-1 tvg-id="1090492148" tvg-name="European Qualifiers For 2026 FIFA World Cup" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759545046973839_EQ2526_MD8_Romania_vs_Austria_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Romania vs Austria - MD 8 - 13 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI43ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89
-#EXTINF:-1 tvg-id="1090492174" tvg-name="UEFA International Friendlies" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759599805535527_UEFA_INT_Friendlies_Malta_vs_Bosnia_and_Herzegovia_4oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Malta vs Bosnia and Herzegovia - 12 Oct 2025
-https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760335209~acl=/*~id=a2f063c312b94adea27988763040e65b-1760292007052~hmac=8ef02e02197872413b9b7ba4dc3a8870c6aabafd833faa8b8e29e40c4033ea89
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
