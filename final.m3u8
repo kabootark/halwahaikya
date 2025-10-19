@@ -52,13 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1760898605~acl=/*~id=01730074113669624296314098955459~hmac=9955cf2b833401d73894aab5572691922ebbb06325c8330e7e88af4cbe4d88ba
-#DATE:- Sunday 19 October at 2025 at 10:49:09 pm
-#EXTINF:-1 tvg-id="1090491643" tvg-name="India's Got Talent" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009943/1759813037535349_IGTS11_simulcast_7OCT_Landscape_Thumb_re1.jpg" tvg-language="Hindi" group-title="Reality",HIN | India’s Got Talent 
-https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-IGT/master_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f
+#DATE:- Monday 20 October at 2025 at 12:00:04 am
 #EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f
-#EXTINF:-1 tvg-id="1090492493" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009849/1759551021063913_bliga2526_MD7_St_Pauli_vs_Hoffenheim_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | St. Pauli vs TSG Hoffenheim - 19 Oct 2025
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f
 #EXTINF:-1 tvg-id="1090492387" tvg-name="Taarak Mehta Ka Ooltah Chashmah" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/bolt_assets/landscape_thumb/1760480819531_1760463937929343_TMKOC_Channel_14oct_landscape_thumb.jpg" tvg-language="HINDI" group-title="Shows",HIN | Taarak Mehta Ka Ooltah Chashmah
 https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-TMK24X7/master_lrh.m3u8?hdnea=exp=1760920342~acl=/*~id=56493897519698902825746129921613~hmac=d7d3150ed79ace159d41d020fbdbbc789488cdbabeb94e8cfc8d923ea3a5eb8f
 ##--!!--## END AUTO-UPDATE ##--!!--##
