@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Friday 24 October, 2025 at 11:00:22 pm
-#FETCHED_AT: 2025-10-24T18:37:05.881Z
+#FETCHED_AT: 2025-10-24T19:27:16.270Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,13 +52,11 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea
-#DATE:- Saturday 25 October at 2025 at 12:49:06 am
-#EXTINF:-1 tvg-id="1090486148" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010487/1761215718536900_KBC25_diwali_spl_23oct_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati - Season 17
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea
+#DATE:- Saturday 25 October at 2025 at 02:00:06 am
 #EXTINF:-1 tvg-id="1090492070" tvg-name="Asia Cup 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" tvg-language="English" group-title="Cricket",ENG | India's Asia Cup Glory 24x7
-https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea
+https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AC24X7/master_lrh.m3u8?hdnea=exp=1761373801~acl=/*~id=90587428599064512686885587076580~hmac=fa49de1c22eda90d4615b1e55cef32693cf3b289310e6d5b1fb6da61f9a76ef1
 #EXTINF:-1 tvg-id="1090493078" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591041448218_bliga2526_MD8_Werder_Bremen_vs_Union_Berlin_3oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Werder Bremen vs Union Berlin - MD 8 - 24 Oct 2025
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761352202~acl=/*~id=34813402606553217451629097444077~hmac=d472eddd9549e52f8fdd3cefb94d21d388259499f95b224fd08a9c80066703ea
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761373801~acl=/*~id=90587428599064512686885587076580~hmac=fa49de1c22eda90d4615b1e55cef32693cf3b289310e6d5b1fb6da61f9a76ef1
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
