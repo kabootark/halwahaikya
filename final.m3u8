@@ -52,9 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1761957003~acl=/*~id=40907598592570638541251078601613~hmac=9c153b28471c104acf986e4e005f94b53c5f1752458aa1773d8317aa75f89084
-#DATE:- Saturday 01 November at 2025 at 02:49:06 am
-#EXTINF:-1 tvg-id="1090493385" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761818271363395_bliga2526_MD9_FC-Augsburg-vs-Borussia-Dortmund_30oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | FC Augsburg vs Borussia Dortmund - MD 9 - 1 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761978603~acl=/*~id=20527694210223483492391212367718~hmac=cc1d1731244ed01f6fd0f7646294bb9bdf1fb53b099a1e8fa4002a0421178e3c
+#DATE:- Saturday 01 November at 2025 at 04:00:07 am
 #EXTINF:-1 tvg-id="1090493181" tvg-name="ATP Rolex Paris Masters 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010687/1761907683221440_ATP_rolex25_QF_medvedev_vs_zverev_31oct_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Medvedev vs Zverev - QF - 31 Oct 2025
 https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761978603~acl=/*~id=20527694210223483492391212367718~hmac=cc1d1731244ed01f6fd0f7646294bb9bdf1fb53b099a1e8fa4002a0421178e3c
 ##--!!--## END AUTO-UPDATE ##--!!--##
