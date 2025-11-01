@@ -52,7 +52,15 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1762043403~acl=/*~id=37003352931861642894576116390051~hmac=42ef6bf4db71571233d7302bf46ff4faa6abeeb789ef401f2450a687ef6bbed3
-#DATE:- Sunday 02 November at 2025 at 01:21:08 am
+#DATE:- Sunday 02 November at 2025 at 04:49:07 am
+#EXTINF:-1 tvg-id="1090493604" tvg-name="UFC Fight Night - Garcia vs Onama" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg" tvg-language="English" group-title="Fight Sports",ENG | UFC Fight Night - Garcia vs Onama - 2 Nov 2025
+https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7
+#EXTINF:-1 tvg-id="1090493604" tvg-name="UFC Fight Night - Garcia vs Onama" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg" tvg-language="Hindi" group-title="Fight Sports",HIN | UFC Fight Night - Garcia vs Onama - 2 Nov 2025
+https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7
+#EXTINF:-1 tvg-id="1090493604" tvg-name="UFC Fight Night - Garcia vs Onama" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg" tvg-language="Tamil" group-title="Fight Sports",TAM | UFC Fight Night - Garcia vs Onama - 2 Nov 2025
+https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7
+#EXTINF:-1 tvg-id="1090493604" tvg-name="UFC Fight Night - Garcia vs Onama" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010666/176183524069352_UFC_Fight_Night_Garcia_vs_Onama_30oct_landscape_thumb.jpg" tvg-language="Telugu" group-title="Fight Sports",TEL | UFC Fight Night - Garcia vs Onama - 2 Nov 2025
+https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762065003~acl=/*~id=24331698130805162739537458725333~hmac=9513bc8e643198418eaed40f9ff9233892ecf455728133ccfbdd5f2d1c925dd7
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
