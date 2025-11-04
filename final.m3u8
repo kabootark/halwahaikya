@@ -52,15 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd
-#DATE:- Wednesday 05 November at 2025 at 04:00:07 am
-#EXTINF:-1 tvg-id="1090493364" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73
-#EXTINF:-1 tvg-id="1090493364" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" tvg-language="Hindi" group-title="Football",HIN | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73
-#EXTINF:-1 tvg-id="1090493364" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" tvg-language="Tamil" group-title="Football",TAM | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73
-#EXTINF:-1 tvg-id="1090493364" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" tvg-language="Telugu" group-title="Football",TEL | Liverpool vs Real Madrid - MD 4 - 5 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762324204~acl=/*~id=33705628155161277162041238345077~hmac=82bd249a8cd58b5f55b2a480606213b97cd4ce2af4b3c6f0860dc307ba91ed73
+#DATE:- Wednesday 05 November at 2025 at 04:28:08 am
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
