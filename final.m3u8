@@ -5,11 +5,58 @@
 
 
 ##--!!--## START AUTO-UPDATE ##--!!--##
-#DATE:- Tuesday 04 November at 2025 at 08:00:11 pm
+#EXTM3U
+#DATE: Tuesday 4 November, 2025 at 05:00:07 pm
+#FETCHED_AT: 2025-11-04T12:53:27.029Z
+#EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
+https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
+https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009259" tvg-name="SONY MARATHI" group-title="Entertainment" tvg-language="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",SONY MARATHI
+https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009273" tvg-name="SONY PAL" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
+https://dishmt.slivcdn.com/hls/live/2011741-b/SonyPalSD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009255" tvg-name="SONY AATH" group-title="Entertainment" tvg-language="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",SONY AATH
+https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000001971" tvg-name="SONY YAY" group-title="Kids" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY
+https://dishmt.slivcdn.com/hls/live/2011746-b/SonyYaySD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009247" tvg-name="SONY MAX HD" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009249" tvg-name="SONY MAX" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",SONY MAX
+https://dishmt.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009253" tvg-name="SONY WAH" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
+https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000044878" tvg-name="SONY MAX2" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX2
+https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009258" tvg-name="SONY PIX HD" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
+https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009276" tvg-name="SONY TEN 1 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",SONY TEN 1 HD
+https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009280" tvg-name="SONY TEN 1" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",SONY TEN 1
+https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009277" tvg-name="SONY TEN 2 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2 HD
+https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009279" tvg-name="SONY TEN 2" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2
+https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009278" tvg-name="SONY TEN 3 HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",SONY TEN 3 HD
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009283" tvg-name="SONY TEN 3" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",SONY TEN 3
+https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000119186" tvg-name="SONY TEN 4 HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",SONY TEN 4 HD
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000119187" tvg-name="SONY TEN 4" group-title="Sports" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",SONY TEN 4
+https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009281" tvg-name="SONY TEN 5 HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",SONY TEN 5 HD
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009282" tvg-name="SONY TEN 5" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",SONY TEN 5
+https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
+https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1762281004~acl=/*~id=13795592749903797183206147900738~hmac=9a5f8bb2c17e5fc266519d6061ca430ab45d4a87820cce1c46752081c722cc40
+#DATE:- Tuesday 04 November at 2025 at 09:00:10 pm
+#EXTINF:-1 tvg-id="1090486148" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010802/1762170238464283_KBC25_1cr_spl_3nov_simulcast_landscape_thumb.jpg" group-title="Game show",Kaun Banega Crorepati - Season 17
+https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd
 #EXTINF:-1 tvg-id="1090493539" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881835162917_UYL25_MD4_Liverpool_vs_RealMadrid_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Liverpool vs Real Madrid - MD 4 - 4 Nov 2025
 https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd
-#EXTINF:-1 tvg-id="1090493538" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Paris vs Bayern Munich - MD 4 - 4 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762302604~acl=/*~id=35169055263623523527297645252913~hmac=762314cb29b29b18cd2b8bb4bce5d5431535443aea2051bece202958bfc9dabd
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
