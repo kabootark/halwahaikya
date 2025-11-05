@@ -52,15 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1762389004~acl=/*~id=60298950625824384293452528779761~hmac=8964c3b96e7dcb503679e4fb41cacb4e0679a10c975f8dd290ce051c458e1602
-#DATE:- Thursday 06 November at 2025 at 04:00:10 am
-#EXTINF:-1 tvg-id="1090493372" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Man City vs Dortmund - MD 4 - 6 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762410604~acl=/*~id=69487878059296943435179686970841~hmac=2b7e6047acc1f6bed7cc86706c393654aae7be3d7ab554704c4de271b1c70b8e
-#EXTINF:-1 tvg-id="1090493372" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg" tvg-language="Hindi" group-title="Football",HIN | Man City vs Dortmund - MD 4 - 6 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762410604~acl=/*~id=69487878059296943435179686970841~hmac=2b7e6047acc1f6bed7cc86706c393654aae7be3d7ab554704c4de271b1c70b8e
-#EXTINF:-1 tvg-id="1090493372" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg" tvg-language="Tamil" group-title="Football",TAM | Man City vs Dortmund - MD 4 - 6 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762410604~acl=/*~id=69487878059296943435179686970841~hmac=2b7e6047acc1f6bed7cc86706c393654aae7be3d7ab554704c4de271b1c70b8e
-#EXTINF:-1 tvg-id="1090493372" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761902905893290_UCL_25_26_MD4_Man-City-vs-Dortmund_landscape_thumb.jpg" tvg-language="Telugu" group-title="Football",TEL | Man City vs Dortmund - MD 4 - 6 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762410604~acl=/*~id=69487878059296943435179686970841~hmac=2b7e6047acc1f6bed7cc86706c393654aae7be3d7ab554704c4de271b1c70b8e
+#DATE:- Thursday 06 November at 2025 at 04:14:10 am
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
