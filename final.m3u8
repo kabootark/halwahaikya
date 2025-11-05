@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Wednesday 5 November, 2025 at 11:00:11 am
-#FETCHED_AT: 2025-11-05T06:33:10.176Z
+#FETCHED_AT: 2025-11-05T07:27:49.266Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825
-#DATE:- Wednesday 05 November at 2025 at 12:14:10 pm
+#DATE:- Wednesday 05 November at 2025 at 12:56:09 pm
 #EXTINF:-1 tvg-id="1090493797" tvg-name="West Indies Tour of New Zealand 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231007524425_NZvsWI25_1t20i_4nov_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 1st T20I - 5 Nov 2025
 https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825
 ##--!!--## END AUTO-UPDATE ##--!!--##
