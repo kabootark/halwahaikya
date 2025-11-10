@@ -52,7 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1762799406~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=206341ed961e18cdec90ec3d32f6d55133e7e105552c960127ff2e4df7bce4c6
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1762799406~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=206341ed961e18cdec90ec3d32f6d55133e7e105552c960127ff2e4df7bce4c6
-#DATE:- Monday 10 November at 2025 at 08:00:11 pm
+#DATE:- Monday 10 November at 2025 at 09:00:11 pm
+#EXTINF:-1 tvg-id="1090486148" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010668/1761838561240105_KBC25_30oc_simulcast_Landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati - Season 17
+https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-KBC/master_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50
 #EXTINF:-1 tvg-id="1090494392" tvg-name="Nitto ATP Finals 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011076/1762758427982530_ATP_FINALS_Musetti-vs-Fritz_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Musetti vs Fritz - Group Stage - 10 Nov 2025
 https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762821005~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=cebb52f9f11af49f8978c123269619222b7d3b4d789e99b4af71371355a79a50
 ##--!!--## END AUTO-UPDATE ##--!!--##
