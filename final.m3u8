@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Tuesday 18 November, 2025 at 11:00:16 pm
-#FETCHED_AT: 2025-11-18T19:17:31.392Z
+#FETCHED_AT: 2025-11-19T01:25:29.911Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,8 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1763520401~acl=/*~id=59e167a2efaf93fadd59aedd68f0517b-1763477200460~hmac=af57b7b58a79d3b49519b9079d45839d902ee6e69879e5239ea0af140e43412c
-#DATE:- Wednesday 19 November at 2025 at 03:35:07 am
+#DATE:- Wednesday 19 November at 2025 at 07:35:06 am
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090495305" tvg-name="West Indies Tour of New Zealand 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011489/1763440769781214_NZvsWI25_2nd_ODI_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 2nd ODI - 19 Nov 2025
+https://sonymtmnew.akamaized.net/hls/live/2018457/wivsnz/ENG/master.m3u8?hdnea=exp=1763555401~acl=/*~id=bce358cb3ea2d7d817beaa4a08ffb6c8-1763512200133~hmac=1108f786044ab0d6c2c340e94bdb2b0490266da50ff97688042697f9fdfd33ad
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
