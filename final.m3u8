@@ -8,83 +8,8 @@
 #EXTM3U
 #DATE: Saturday 23 August, 2025 at 11:09:42 am
 #FETCHED_AT: 2025-11-23T13:26:26.849Z
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-300x300.png" group-title="Entertainment" , Sоnу SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" group-title="Entertainment" , Sоnу SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Marathi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" group-title="Entertainment" , Sоnу Marathi
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png" group-title="Entertainment" , Sоnу Pal
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Entertainment" , Sоnу Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-language="Bengali" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-AATH-New-Logo.png" group-title="Entertainment" , Sоnу Aath
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" group-title="Kids" , Sоnу Yay
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Movies" , Sоnу MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Movies" , Sоnу MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" group-title="Movies" , Sоnу MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" group-title="Movies" , Sоnу WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" group-title="Movies" , Sоnу PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png" group-title="Infotainment" , Sоnу BBC Earth HD
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png" group-title="Sports" , Sоnу Sports Ten 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" group-title="Sports" , Sоnу Sports Ten 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" group-title="Sports" , Sоnу Sports Ten 3
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" group-title="Sports" , Sоnу Sports Ten 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" group-title="Sports" , Sоnу Sports Ten 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" group-title="Sports" , Sоnу Sports Ten 1 HD
-https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" group-title="Sports" , Sоnу Sports Ten 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" group-title="Sports" , Sоnу Sports Ten 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" group-title="Sports" , Sоnу Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" group-title="Sports" , !Sоnу Sports Ten 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1763959806~acl=%2f*~id=7dcf6e93-91ac-4927-963f-a944b3507eb1~data=hdntl~hmac=140c01ef1712fcf4b9810cf1a1beb99fdd6327c8484d62d3e5b30a64f4de64e7/master_3500.m3u8
-
-#DATE:- Sunday 23 November at 2025 at 09:00:07 pm
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011697/1763813730267954_II_Mast_Mast_Hits_spl_22nov_Live_Landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa
-#EXTINF:-1 tvg-id="1090495814" tvg-name="DP World Asia Cup Rising Stars Men's 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011678/1763753291589761_ACRS25_final_BAN_A_vs_SHA_22nov_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Bangladesh A vs Pakistan Shaheens - Final - 23 Nov 2025 
-https://sonymtmnew.akamaized.net/hls/live/2037140/DAI20-criclive/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa
-#EXTINF:-1 tvg-id="1090495713" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011002/176256349965596_Bundesliga_MD11_RBLeipzig_vs_WerderBremen_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | RB Leipzig vs Werder Bremen - MD 11 - 23 Nov 2025
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1763944202~acl=/*~id=21d6cbe8ec2c695f9c20659afee7676d-1763901000131~hmac=e737245b86e2f38aefda2bb72be7b0e6e2751b73f9d70c965be107ec84984eaa
+#EXTINF:-1 tvg-id="1090491950" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011753/1763985455347762_kbc25_Live_simulcast_24nov_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | E76. Kaun Banega Crorepati - Season 17
+https://sonymtmnew.akamaized.net/hls/live/2043696/DAI26ME-KBC/master.m3u8?hdnea=exp=1764030602~acl=/*~id=970c04945bcd63305583b0435fee52ad-1763987400128~hmac=35b2fc793d2a8b1c0c0a2d7e57ffa632ec6291919432ba0a1905e67c1e7ffba5|x-playback-session-id=37593bf22d17956a6113047e7ef9c613-1763999464973&User-Agent=com.sonyliv/6.22.4 (Android 16; en_GB; CPH2649; Build/BP2A.250605.015)
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
