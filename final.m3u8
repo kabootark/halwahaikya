@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Thursday, 27 November 2025 at 11:00:22 pm
-#FETCHED_AT: 2025-11-27T19:01:36.568Z
+#FETCHED_AT: 2025-11-27T19:27:07.450Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1764289802~acl=/*~id=b01d189fe09fec3ccfc46013db867661-1764246600124~hmac=418485bf436b792eefd899eeb4808192c48fa66164ab2868190101b68588f2e8
-#DATE:- Friday at 28 November 2025 at 12:56:07 am
+#DATE:- Friday at 28 November 2025 at 01:00:06 am
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090496063" tvg-name="UEFA Europa League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Aston Villa vs Young Boys - MD 5 - 27 Nov 2025
 https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1764311402~acl=/*~id=b42319daaf7748c3b58f06cc3ab694d8-1764268200183~hmac=5444775cf94683f98cdc301e040ee69754eca3993eefdc8fae5a364fc52eeb1b
