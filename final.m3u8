@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1765045803~acl=/*~id=aaa67faf003cadff9199835dc1a6befb-1765002600104~hmac=3e18f8385feb39199ca6d7700bc988bba11624d9cc2a0511647f37e1944fb18b
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1765045803~acl=/*~id=aaa67faf003cadff9199835dc1a6befb-1765002600104~hmac=3e18f8385feb39199ca6d7700bc988bba11624d9cc2a0511647f37e1944fb18b
-#DATE:- Saturday at 06 December 2025 at 08:57:45 pm
+#DATE:- Saturday at 06 December 2025 at 09:17:45 pm
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012046/1764860375569486_indian_idol25_Dharmendra_Jitendra_spl_4dec_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master_lrh-800300010.m3u8?hdnea=exp=1765067403~acl=/*~id=538b27f17e66bed873090b35b488505f-1765024200139~hmac=ae5b110405cbb885381e2823eff4a71266403a21cc400ed63d4802510dcda142
@@ -68,6 +68,8 @@ https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765067403~acl=/*~id=538b27f17e66bed873090b35b488505f-1765024200139~hmac=ae5b110405cbb885381e2823eff4a71266403a21cc400ed63d4802510dcda142
 #EXTINF:-1 tvg-id="1090496477" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011801/1764133243276656_Bundesliga_MD13_VfL_Wolfsburg_vs_UnionBerlin_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | VfL Wolfsburg vs Union Berlin - MD 13 - 6 Dec 2025
 https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765067403~acl=/*~id=538b27f17e66bed873090b35b488505f-1765024200139~hmac=ae5b110405cbb885381e2823eff4a71266403a21cc400ed63d4802510dcda142
+#EXTINF:-1 tvg-id="1090496701" tvg-name="ABB FIA Formula E World Championship" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011993/1764738474289770_ABB_FIA_FormulaE_WC25_Round_1_Sao_Paulo_EPRIX_final_Race_2dec_landscape_thumb.jpg" tvg-language="English" group-title="Racing",ENG | Round 1 - Sao Paulo E-PRIX - Final Race - 6 Dec 2025
+https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765067403~acl=/*~id=538b27f17e66bed873090b35b488505f-1765024200139~hmac=ae5b110405cbb885381e2823eff4a71266403a21cc400ed63d4802510dcda142
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
