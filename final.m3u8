@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Tuesday, 9 December 2025 at 05:00:08 pm
-#FETCHED_AT: 2025-12-09T13:07:31.815Z
+#FETCHED_AT: 2025-12-09T13:24:58.854Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1765305003~acl=/*~id=c134da09440d0c47bd28a5efc841b079-1765261800160~hmac=032abd4b42ba0486f5623db2483ffdae843167e4b70c6cf95a80c30eb481e363
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1765305003~acl=/*~id=c134da09440d0c47bd28a5efc841b079-1765261800160~hmac=032abd4b42ba0486f5623db2483ffdae843167e4b70c6cf95a80c30eb481e363
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1765305003~acl=/*~id=c134da09440d0c47bd28a5efc841b079-1765261800160~hmac=032abd4b42ba0486f5623db2483ffdae843167e4b70c6cf95a80c30eb481e363
-#DATE:- Tuesday at 09 December 2025 at 06:49:12 pm
+#DATE:- Tuesday at 09 December 2025 at 07:14:16 pm
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090496494" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764739292900688_UYL2526_MD6_PSV_vs_Atletico_2dec_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | PSV vs Atletico - MD 6 - 9 Dec 2025
 https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765326603~acl=/*~id=d0559c4c28ca905eef9f2cae26fceac9-1765283400124~hmac=63b239a85df20b2f6037598980cfcbd43b5707f0eddd700ac4810612086f9438
