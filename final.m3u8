@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Thursday, 1 January 2026 at 11:04:21 am
-#FETCHED_AT: 2026-01-01T06:32:45.448Z
+#FETCHED_AT: 2026-01-01T07:20:24.716Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1767270842~acl=/*~id=d1ed62e081443e9f97e79280de4e28fc-1767227640627~hmac=30391ba555e11327e21f79d3ced9b9e2f200d7a01047189dc94337c03b0cb599
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1767270842~acl=/*~id=d1ed62e081443e9f97e79280de4e28fc-1767227640627~hmac=30391ba555e11327e21f79d3ced9b9e2f200d7a01047189dc94337c03b0cb599
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1767270842~acl=/*~id=d1ed62e081443e9f97e79280de4e28fc-1767227640627~hmac=30391ba555e11327e21f79d3ced9b9e2f200d7a01047189dc94337c03b0cb599
-#DATE:- 01-01-2026 12:24
+#DATE:- 01-01-2026 12:44
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090498499" tvg-name="Best Of Sports 2025 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012676/1766556929935301_2025SportsBlockbusters_24x7_landscape_thumb.jpg" tvg-language="English" group-title="Sports",ENG | Best Of Sports 2025 - 24x7
 https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-BOS/master.m3u8?hdnea=exp=1767292442~acl=/*~id=eab6518dff36007a6eea2158bc123196-1767249240635~hmac=35ebfa624b526c799bccc95a505926f74f8a2f9c0b6ab7515ccb124db979c160
