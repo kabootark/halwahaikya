@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Friday, 2 January 2026 at 05:04:19 pm
-#FETCHED_AT: 2026-01-02T12:32:15.543Z
+#FETCHED_AT: 2026-01-02T12:45:46.622Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1767378717~acl=/*~id=173f437efe6dbc3a1be07bbcaeb28719-1767335516556~hmac=c0e6592dce32b25636224d40d9e6fb7bead731386eba500ed97d07ad5a2b8da4
-#DATE:- 02-01-2026 18:00
+#DATE:- 02-01-2026 18:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090498763" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG |  Greece vs Japan - 2 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767400201~acl=/*~id=392adf95e84d2852bb1d91aecb493e6c-1767357000125~hmac=e6bc9f3feba98cb4d63ab2ef56aedef7df493fabf0471d53569b8b4563496ef5
