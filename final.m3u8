@@ -52,11 +52,11 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1767443401~acl=/*~id=1f3ce9d67876798a0af2991c65ba839d-1767400200159~hmac=74896af97658934c32da3a161405b468a978e5d50b13ac8610db9dd0cb5ad301
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1767443401~acl=/*~id=1f3ce9d67876798a0af2991c65ba839d-1767400200159~hmac=74896af97658934c32da3a161405b468a978e5d50b13ac8610db9dd0cb5ad301
-#DATE:- 03-01-2026 15:00
+#DATE:- 03-01-2026 15:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090498764" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Australia vs Norway - 3 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767465001~acl=/*~id=e4679a719ffc13690972ba254dfe018b-1767421800146~hmac=76298ef02b31d930811af46baf93a9b1b354d104bcbe6d21d93ca0c2a27b4f45
-#EXTINF:-1 tvg-id="1090498797" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012864/1767337389784631_UC26_France_vs_Switzerland_2jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | France vs Switzerland - 3 Jan 2026
+#EXTINF:-1 tvg-id="1090498797" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012867/1767337836864765_UC26_Usa_vs_Argentina_2jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | USA vs Argentina - 3 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1767465001~acl=/*~id=e4679a719ffc13690972ba254dfe018b-1767421800146~hmac=76298ef02b31d930811af46baf93a9b1b354d104bcbe6d21d93ca0c2a27b4f45
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
