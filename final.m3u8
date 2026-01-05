@@ -52,8 +52,12 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1767659401~acl=/*~id=7bf09c07689ebe1ac2d9dd4a3aad9d09-1767616200145~hmac=2935e76d7129bed5ef2bed987cc519a8ba7c94cd59f15bedeff5dc50bcb4c4d6
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1767659401~acl=/*~id=7bf09c07689ebe1ac2d9dd4a3aad9d09-1767616200145~hmac=2935e76d7129bed5ef2bed987cc519a8ba7c94cd59f15bedeff5dc50bcb4c4d6
-#DATE:- 05-01-2026 23:20
-#No live matches.
+#DATE:- 06-01-2026 04:40
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090498903" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767427703499238_UC26_Canada-vs-Belgium_3jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Canada vs Belgium - 6 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767681001~acl=/*~id=2e2be439187f8dea77cbfaa92bea27ef-1767637800189~hmac=f8e18f65e6b99cd4ed7eb1246523316efd0efb83ef3f4f1ca57d8cf5bf9c5fff
+#EXTINF:-1 tvg-id="1090498833" tvg-name="Super Smash 2025/26 Men's" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012967/1767596813484377_SuperSmash2526_mens_Auckland_Aces_vs_Otago_Volts_5jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Auckland Aces vs Otago Volts - 6 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8?hdnea=exp=1767681001~acl=/*~id=2e2be439187f8dea77cbfaa92bea27ef-1767637800189~hmac=f8e18f65e6b99cd4ed7eb1246523316efd0efb83ef3f4f1ca57d8cf5bf9c5fff
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
