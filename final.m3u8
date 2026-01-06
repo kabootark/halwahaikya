@@ -52,12 +52,12 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1767724201~acl=/*~id=e600f575f656091ae83d0fe580f40bbe-1767681000144~hmac=5590e61dded1ed22e81942780ca750a89eb506010c0e94e94a7d856b3ea797e8
-#DATE:- 06-01-2026 21:00
+#DATE:- 06-01-2026 21:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1767745802~acl=/*~id=9ea35535ff909200bb476d058091e128-1767702600119~hmac=b954ce18a703b5af73f892320444e0f6f7bc73e251567878eac5e5a7a14eac6d
 #EXTINF:-1 tvg-id="1090498703" tvg-name="MasterChef India - Hindi" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012988/1767619329396530_MCI_S4_5jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Cookery",HIN | MasterChef India - Hindi
 https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8?hdnea=exp=1767745802~acl=/*~id=9ea35535ff909200bb476d058091e128-1767702600119~hmac=b954ce18a703b5af73f892320444e0f6f7bc73e251567878eac5e5a7a14eac6d
+#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1767745802~acl=/*~id=9ea35535ff909200bb476d058091e128-1767702600119~hmac=b954ce18a703b5af73f892320444e0f6f7bc73e251567878eac5e5a7a14eac6d
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
