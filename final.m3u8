@@ -52,8 +52,12 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1767745802~acl=/*~id=9ea35535ff909200bb476d058091e128-1767702600119~hmac=b954ce18a703b5af73f892320444e0f6f7bc73e251567878eac5e5a7a14eac6d
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1767745802~acl=/*~id=9ea35535ff909200bb476d058091e128-1767702600119~hmac=b954ce18a703b5af73f892320444e0f6f7bc73e251567878eac5e5a7a14eac6d
-#DATE:- 07-01-2026 00:00
-#No live matches.
+#DATE:- 07-01-2026 04:40
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090499006" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012941/1767503753535728_UnitedCup26_Poland_vs_Netherlands_4jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Poland vs Netherlands - 7 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1767767518~acl=/*~id=19b71afdc163c7dbebd9cdc2d79bc2d3-1767724316556~hmac=0143f491094241d60ee6a6b4a18116d8122e9ea7b5b8e2f808ae1993fdcd3058
+#EXTINF:-1 tvg-id="1090498838" tvg-name="Super Smash 2025/26 Women's" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766836424934385_SuperSmash2526_womens_Wellington-Blaze-vs-Central-Hinds_27dec_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Wellington Blaze vs Central Hinds- 7 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1767767518~acl=/*~id=19b71afdc163c7dbebd9cdc2d79bc2d3-1767724316556~hmac=0143f491094241d60ee6a6b4a18116d8122e9ea7b5b8e2f808ae1993fdcd3058
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
