@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Wednesday, 7 January 2026 at 11:00:16 pm
-#FETCHED_AT: 2026-01-07T18:37:04.157Z
+#FETCHED_AT: 2026-01-07T19:25:10.808Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1767832201~acl=/*~id=fddc13e0e61d91a0435d9ea660d6eaa8-1767789000165~hmac=b351bb33655064f41d24a80574a67e48166e62eb232248956cb93a005250b523
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
