@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768069801~acl=/*~id=95b422969da76549a2d3fcc0eb8e473f-1768026600199~hmac=eb091c16231915dff4ce95e2e8a96f00a3266eb89ac8789e43c64c1b20f91ef9
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768069801~acl=/*~id=95b422969da76549a2d3fcc0eb8e473f-1768026600199~hmac=eb091c16231915dff4ce95e2e8a96f00a3266eb89ac8789e43c64c1b20f91ef9
-#DATE:- 10-01-2026 19:00
+#DATE:- 10-01-2026 19:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499190" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013149/1767939274147777_facup26_RD3_Macclesfield_vs_Crystal_Palace_9jan_Landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Macclesfield vs Crystal Palace - Round 3 - 10 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
@@ -60,8 +60,14 @@ https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
 #EXTINF:-1 tvg-id="1090499192" tvg-name="The Emirates FA Cup 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013151/1767939547964364_facup26_RD3_Wolves_vs_Shrewsbury_Town_9jan_Landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Wolves vs Shrewsbury Town - Round 3 - 10 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
-#EXTINF:-1 tvg-id="1090499151" tvg-name="United Cup 2026 " tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013177/1767966837383634_UC26_SF_USA_vs_Poland_9jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | USA vs Poland - Semi-final - 10 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
+#EXTINF:-1 tvg-id="1090499157" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855131964351_Bundesliga_MD16_Union-Berlin-vs-Mainz_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Union Berlin vs Mainz - MD 16 - 10 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
+#EXTINF:-1 tvg-id="1090499167" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767855311645351_Bundesliga_MD16_SC-Freiburg-vs-Hamburg-SV_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | SC Freiburg vs Hamburger SV - MD 16 - 10 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
+#EXTINF:-1 tvg-id="1090499154" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767854611408351_Bundesliga_MD16_Heidenheim-vs-FC-Koln_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Heidenheim vs FC Koln - MD 16 - 10 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
+#EXTINF:-1 tvg-id="1090499152" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Goal Arena - MD 16 - 10 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1768091401~acl=/*~id=083f8a5ab6feae354c0a54992e253ff0-1768048200092~hmac=facc06babe2f8a47e179d359ae4687de5fbab6ca6527f43fd37d1d8c114b8251
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
