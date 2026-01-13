@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Tuesday, 13 January 2026 at 11:00:40 pm
-#FETCHED_AT: 2026-01-13T18:56:09.908Z
+#FETCHED_AT: 2026-01-13T19:07:23.965Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1768362127~acl=/*~id=11051774559207323589304834443559~hmac=68f7aef9af37f1f53e6772b71a457ae97d988cd05e78ea4934174a85f7ac9b71
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,12 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768362127~acl=/*~id=11051774559207323589304834443559~hmac=68f7aef9af37f1f53e6772b71a457ae97d988cd05e78ea4934174a85f7ac9b71
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768362127~acl=/*~id=11051774559207323589304834443559~hmac=68f7aef9af37f1f53e6772b71a457ae97d988cd05e78ea4934174a85f7ac9b71
-#DATE:- 14-01-2026 00:20
+#DATE:- 14-01-2026 00:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499484" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768135144547648_bliga26_MD17_Dortmund_vs_Werder_Bremen_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Borussia Dortmund vs Werder Bremen - MD 17 - 14 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1768362127~acl=/*~id=11051774559207323589304834443559~hmac=68f7aef9af37f1f53e6772b71a457ae97d988cd05e78ea4934174a85f7ac9b71
-#EXTINF:-1 tvg-id="1090499485" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136250489648_bliga26_MD17_Hamburg_SV_vs_Leverkusen_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Hamburger SV vs Bayer Leverkusen - MD 17 - 14 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1768362127~acl=/*~id=11051774559207323589304834443559~hmac=68f7aef9af37f1f53e6772b71a457ae97d988cd05e78ea4934174a85f7ac9b71
 #EXTINF:-1 tvg-id="1090499481" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768134950567648_bliga26_MD17_VfB_Stuttgart_vs_Eintracht_Frankfurt_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1768362127~acl=/*~id=11051774559207323589304834443559~hmac=68f7aef9af37f1f53e6772b71a457ae97d988cd05e78ea4934174a85f7ac9b71
 #EXTINF:-1 tvg-id="1090499486" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136509863648_bliga26_MD17_Mainz_vs_Heidenheim_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Mainz vs Heidenheim - MD 17 - 14 Jan 2026
