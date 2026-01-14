@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Wednesday, 14 January 2026 at 08:12:12 am
-#FETCHED_AT: 2026-01-14T06:39:00.893Z
+#FETCHED_AT: 2026-01-14T07:23:12.815Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1768393801~acl=/*~id=19749441244777562204763207873414~hmac=2dc5fd2b814ec926133e55b2353dfd1c366d2bb23fe814a6e570f7f79d79ad2e
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,12 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768393801~acl=/*~id=19749441244777562204763207873414~hmac=2dc5fd2b814ec926133e55b2353dfd1c366d2bb23fe814a6e570f7f79d79ad2e
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768393801~acl=/*~id=19749441244777562204763207873414~hmac=2dc5fd2b814ec926133e55b2353dfd1c366d2bb23fe814a6e570f7f79d79ad2e
-#DATE:- 14-01-2026 12:20
+#DATE:- 14-01-2026 13:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499540" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768305435222693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Svitolina vs Anisimova - 14 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1768415401~acl=/*~id=22894289474933717267054253444399~hmac=337840793f0bac251423ccb86fe79c2e538da6d0799b0758a57accbcbd625112
-#EXTINF:-1 tvg-id="1090498898" tvg-name="Super Smash 2025/26 Women's" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012915/1767421300004881_SuperSmash2526_womens_Auckland-Hearts-vs-Canterbury-Magicians_1jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Auckland Hearts vs Canterbury Magicians - 14 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1768415401~acl=/*~id=22894289474933717267054253444399~hmac=337840793f0bac251423ccb86fe79c2e538da6d0799b0758a57accbcbd625112
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
