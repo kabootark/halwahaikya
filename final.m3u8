@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768437001~acl=/*~id=87044440843244184772040370236330~hmac=79661e7eaee8ec3778fd0f29ab5b0e251d45a70a7334d5cb9e608bb9eb5188ac
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768437001~acl=/*~id=87044440843244184772040370236330~hmac=79661e7eaee8ec3778fd0f29ab5b0e251d45a70a7334d5cb9e608bb9eb5188ac
-#DATE:- 15-01-2026 01:00
+#DATE:- 15-01-2026 01:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499542" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768137339842648_bliga26_MD17_FC_Koln_vs_Bayern_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | FC Koln vs Bayern Munich - MD 17 - 15 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1768458604~acl=/*~id=48120876677726330162604365216205~hmac=3f47ac3ff21dd46dac1f60b3ba627494fbfe766638d017d132651a213ab98a79
@@ -60,8 +60,6 @@ https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1768458604~acl=/*~id=48120876677726330162604365216205~hmac=3f47ac3ff21dd46dac1f60b3ba627494fbfe766638d017d132651a213ab98a79
 #EXTINF:-1 tvg-id="1090499550" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768138926583648_bliga26_MD17_Hoffenheim_vs_Borussia_Mgladbach_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Hoffenheim vs Borussia M'gladbach - MD 17 - 15 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1768458604~acl=/*~id=48120876677726330162604365216205~hmac=3f47ac3ff21dd46dac1f60b3ba627494fbfe766638d017d132651a213ab98a79
-#EXTINF:-1 tvg-id="1090499541" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136708974648_bliga26_MD17_VfL_Wolfsburg_vs_St_Pauli_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1768458604~acl=/*~id=48120876677726330162604365216205~hmac=3f47ac3ff21dd46dac1f60b3ba627494fbfe766638d017d132651a213ab98a79
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
