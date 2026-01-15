@@ -52,9 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768480202~acl=/*~id=03985636553535360283978915275606~hmac=9a71ee720de745bb01953d5e62370c09d8426548bec9a3a5654b9d5faf450bb2
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768480202~acl=/*~id=03985636553535360283978915275606~hmac=9a71ee720de745bb01953d5e62370c09d8426548bec9a3a5654b9d5faf450bb2
-#DATE:- 15-01-2026 13:00
+#DATE:- 15-01-2026 13:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090499564" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013378/1768394373358258_AO26_Djokovic_vs_Tiafoe_op_live_landscpae_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Novak Djokovic vs Frances Tiafoe - 15 Jan 2026
+#EXTINF:-1 tvg-id="1090499564" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768306701711693_AO26_Opening_week_Alcaraz_vs_De_Minaur_13jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Alcaraz vs De Minaur - 15 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1768501801~acl=/*~id=22757066489795744250805165607691~hmac=289eaeba612ab5bd80ca2fd28c654594cb9d5c42dc626c2bfa6a53e5a959a5ec
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
