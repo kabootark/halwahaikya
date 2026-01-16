@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Friday, 16 January 2026 at 11:00:01 am
-#FETCHED_AT: 2026-01-16T06:40:06.083Z
+#FETCHED_AT: 2026-01-16T07:26:25.924Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1768566601~acl=/*~id=71010089498105653567239737810608~hmac=4cbea737a46e120d0dcb6a53354cee32265f4cd7f7bfb28908acf43399cca601
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768566601~acl=/*~id=71010089498105653567239737810608~hmac=4cbea737a46e120d0dcb6a53354cee32265f4cd7f7bfb28908acf43399cca601
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768566601~acl=/*~id=71010089498105653567239737810608~hmac=4cbea737a46e120d0dcb6a53354cee32265f4cd7f7bfb28908acf43399cca601
-#DATE:- 16-01-2026 12:20
+#DATE:- 16-01-2026 12:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499622" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013386/1768398131523642_AO26_Sinner_vs_Auger_Aliassime_op_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Jannik Sinner vs Felix Auger-Aliassime - 16 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1768588201~acl=/*~id=48085468579565416966489493144918~hmac=edeaecc676a7cc9c78cfaf00ff39b018320e6e5b4487d40457f12c3ea992acb3
