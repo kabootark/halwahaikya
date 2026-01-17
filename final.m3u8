@@ -52,8 +52,16 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768696202~acl=/*~id=78082545171992660790408148856759~hmac=ffdddb6d1e8f894dd400b3ae8807a3924a397af1698a47ed907a337df676169f
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768696202~acl=/*~id=78082545171992660790408148856759~hmac=ffdddb6d1e8f894dd400b3ae8807a3924a397af1698a47ed907a337df676169f
-#DATE:- 18-01-2026 04:40
+#DATE:- 18-01-2026 05:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Yastremska vs Ruse - Round 1 - 18 Jan 2026	
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1768717802~acl=/*~id=78656572178876832834047469368285~hmac=8c40ef8d1de35dcb1b27c71fb7119f4d7c0ef5b8471a33e52d56ad15e136a384
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Yastremska vs Ruse - Round 1 - 18 Jan 2026	
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8?hdnea=exp=1768717802~acl=/*~id=78656572178876832834047469368285~hmac=8c40ef8d1de35dcb1b27c71fb7119f4d7c0ef5b8471a33e52d56ad15e136a384
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" tvg-language="Tamil" group-title="Tennis",TAM | Yastremska vs Ruse - Round 1 - 18 Jan 2026	
+https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea=exp=1768717802~acl=/*~id=78656572178876832834047469368285~hmac=8c40ef8d1de35dcb1b27c71fb7119f4d7c0ef5b8471a33e52d56ad15e136a384
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013550/1768648860000750_AO2026_Landscape_Thumb_Yastremska_vs_Ruse_SP.jpg" tvg-language="Telugu" group-title="Tennis",TEL | Yastremska vs Ruse - Round 1 - 18 Jan 2026	
+https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1768717802~acl=/*~id=78656572178876832834047469368285~hmac=8c40ef8d1de35dcb1b27c71fb7119f4d7c0ef5b8471a33e52d56ad15e136a384
 #EXTINF:-1 tvg-id="1090499840" tvg-name="Super Smash 2025/26 Women's" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767438584500690_SuperSmash2526_womens_Otago-Sparks-vs-Northern-Brave_1jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Otago Sparks vs Northern Brave - 18 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1768717802~acl=/*~id=78656572178876832834047469368285~hmac=8c40ef8d1de35dcb1b27c71fb7119f4d7c0ef5b8471a33e52d56ad15e136a384
 ##--!!--## END AUTO-UPDATE ##--!!--##
