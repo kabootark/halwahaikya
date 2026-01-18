@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Sunday, 18 January 2026 at 05:00:19 pm
-#FETCHED_AT: 2026-01-18T13:00:06.798Z
+#FETCHED_AT: 2026-01-18T13:27:53.588Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1768761001~acl=/*~id=71099343026034345089387774998110~hmac=916d29175302416e96658ad521e95e896da63e10d4e09fdb1c4b51eb3417b3ba
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,10 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768761001~acl=/*~id=71099343026034345089387774998110~hmac=916d29175302416e96658ad521e95e896da63e10d4e09fdb1c4b51eb3417b3ba
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768761001~acl=/*~id=71099343026034345089387774998110~hmac=916d29175302416e96658ad521e95e896da63e10d4e09fdb1c4b51eb3417b3ba
-#DATE:- 18-01-2026 18:40
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg" group-title="Tennis",Stream 1 - 18 Jan 2026
-https://dai.google.com/ssai/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8?hdnea=exp=1768782603~acl=/*~id=61122646202043298421514234430098~hmac=f942e857045edfc8bc1ddce3450dae0aa8c4ccce360dae080945eb28a8e53923
+#DATE:- 18-01-2026 19:00
+#No live matches.
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
