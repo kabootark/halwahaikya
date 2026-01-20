@@ -52,10 +52,12 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1768933268~acl=/*~id=4cf016cd6a47406c9cc66e45fd9c4d33-1763619206321-019aa4ccba0270818b0dc5b09f6db4f8~hmac=6781069794e2a26a6bb3509d6d8b02f81a989bae880af0c87c3f6c479f21c05b
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768933268~acl=/*~id=4cf016cd6a47406c9cc66e45fd9c4d33-1763619206321-019aa4ccba0270818b0dc5b09f6db4f8~hmac=6781069794e2a26a6bb3509d6d8b02f81a989bae880af0c87c3f6c479f21c05b
-#DATE:- 20-01-2026 19:20
+#DATE:- 20-01-2026 20:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" group-title="Tennis",Stream 1 - Round 1 - 20 Jan 2026
-https://dai.google.com/ssai/event/votA95rUSayCu-pRRIJhfw/master.m3u8?hdnea=exp=1768959014~acl=/*~id=11276375000032976630235500681606~hmac=aa85876be08abc66c407b05db83b37277bee65e7caa0011602df863593e60629
+#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012990/1767619918818921_sti26_simulcast_5jan26_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1768959014~acl=/*~id=11276375000032976630235500681606~hmac=aa85876be08abc66c407b05db83b37277bee65e7caa0011602df863593e60629
+#EXTINF:-1 tvg-id="1090500152" tvg-name="Pro Wrestling League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg" group-title="Wrestling",Punjab Royals vs Tiigers Of Mumbai Dangal - 20 Jan 2026
+https://dai.google.com/ssai/event/-lsGhcFUQ6KYN5Yaaw8gcQ/master.m3u8?hdnea=exp=1768959014~acl=/*~id=11276375000032976630235500681606~hmac=aa85876be08abc66c407b05db83b37277bee65e7caa0011602df863593e60629
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
