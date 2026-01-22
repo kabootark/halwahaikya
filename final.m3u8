@@ -52,8 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769106601~acl=/*~id=1705d8ca54d109ba89432d9932d144f6-1769063400183~hmac=eee6652ed61988f51f4ede22260802c8bfc44a87292d7993e0a2a08ec3ee38ab
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769106601~acl=/*~id=1705d8ca54d109ba89432d9932d144f6-1769063400183~hmac=eee6652ed61988f51f4ede22260802c8bfc44a87292d7993e0a2a08ec3ee38ab
-#DATE:- 22-01-2026 19:20
+#DATE:- 22-01-2026 20:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013880/176900423941321_sti26_simulcast_21jan_landscape_thumb.jpg" group-title="Reality",Shark Tank India
+https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8?hdnea=exp=1769128201~acl=/*~id=5553f1900401bbe766b8b0e427773a44-1769085000156~hmac=56c76dc72f90801cae60281b98a806cab5f1cb1cd41519c362334259ed3038ca
 #EXTINF:-1 tvg-id="1090500625" tvg-name="England Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013948/1769072708455506_SLvsENG26_1odi_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 1st ODI - 22 Jan 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8?hdnea=exp=1769128201~acl=/*~id=5553f1900401bbe766b8b0e427773a44-1769085000156~hmac=56c76dc72f90801cae60281b98a806cab5f1cb1cd41519c362334259ed3038ca
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013680/1768828154505610_studio_show_19jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 1 - 22 Jan 2026
