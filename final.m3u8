@@ -6,72 +6,72 @@
 
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
-#DATE: Friday, 23 January 2026 at 11:00:13 am
-#FETCHED_AT: 2026-01-23T06:46:01.918Z
+#DATE: Friday, 23 January 2026 at 05:00:25 pm
+#FETCHED_AT: 2026-01-23T12:32:26.908Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
-https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009259" tvg-name="SONY MARATHI" group-title="Entertainment" tvg-language="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",SONY MARATHI
-https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009273" tvg-name="SONY PAL" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
-https://dishmt.slivcdn.com/hls/live/2011741-b/SonyPalSD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011741-b/SonyPalSD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009255" tvg-name="SONY AATH" group-title="Entertainment" tvg-language="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",SONY AATH
-https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000001971" tvg-name="SONY YAY" group-title="Kids" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY
-https://dishmt.slivcdn.com/hls/live/2011746-b/SonyYaySD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011746-b/SonyYaySD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009247" tvg-name="SONY MAX HD" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009249" tvg-name="SONY MAX" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",SONY MAX
-https://dishmt.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009253" tvg-name="SONY WAH" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
-https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000044878" tvg-name="SONY MAX2" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX2
-https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009258" tvg-name="SONY PIX HD" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009276" tvg-name="SONY TEN 1 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",SONY TEN 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009280" tvg-name="SONY TEN 1" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",SONY TEN 1
-https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009277" tvg-name="SONY TEN 2 HD" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009279" tvg-name="SONY TEN 2" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2
-https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009278" tvg-name="SONY TEN 3 HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",SONY TEN 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009283" tvg-name="SONY TEN 3" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",SONY TEN 3
-https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000119186" tvg-name="SONY TEN 4 HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",SONY TEN 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000119187" tvg-name="SONY TEN 4" group-title="Sports" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",SONY TEN 4
-https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009281" tvg-name="SONY TEN 5 HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",SONY TEN 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009282" tvg-name="SONY TEN 5" group-title="Sports" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",SONY TEN 5
-https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
+https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
-https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769171402~acl=/*~id=0a348e53997ba3470dc7b365da3d23d9-1769128200228~hmac=4b9b350100c9f5b4bfbf79c22fb5984756f7641a756f4d0efa71297ba7e0a8a1
-#DATE:- 23-01-2026 17:20
+https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+#DATE:- 23-01-2026 18:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110084329967_AO2026_Landscape_Thumb_Ruse_v_Andreeva_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Ruse vs Andreeva - Round 3 - 23 Jan 2026	
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110084329967_AO2026_Landscape_Thumb_Ruse_v_Andreeva_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Ruse vs Andreeva - Round 3 - 23 Jan 2026	
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110084329967_AO2026_Landscape_Thumb_Ruse_v_Andreeva_SP.jpg" tvg-language="Tamil" group-title="Tennis",TAM | Ruse vs Andreeva - Round 3 - 23 Jan 2026	
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110084329967_AO2026_Landscape_Thumb_Ruse_v_Andreeva_SP.jpg" tvg-language="Telugu" group-title="Tennis",TEL | Ruse vs Andreeva - Round 3 - 23 Jan 2026	
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090498779" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110083490443_AO2026_Landscape_Thumb_Bublik_V_Etcheverry_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Alexander Bublik vs Tomas Martin Etcheverry - Men's Singles - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090498778" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051265892997_AO26_Round3_Rod_Laver_Arena_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Elena-Gabriela Ruse vs Mirra Andreeva - Women's Singles - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090498773" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053122255613_AO26_Round3_stream2_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 2 - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090498774" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053115024613_AO26_Round3_stream3_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 3 - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 #EXTINF:-1 tvg-id="1090500980" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013861/1768988631866461_DPworldtour_HeroDubaiDesertClassic_day2_21jan_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Hero Dubai Desert Classic Day 2 - 23 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1769193002~acl=/*~id=e66cb68587ff37a8320eafde90569982-1769149800134~hmac=8c8877105bf3263bc8a3b84395d1d9bb4b8ac2e1870c856d75e94919d7f93542
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1769214602~acl=/*~id=d70061ec994b06ebf55134feb2613495-1769171400166~hmac=29ed3a16e3b5a7761c3acaf9b29ba541bb7664d68c30d41a462923c8f2ef5838
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
