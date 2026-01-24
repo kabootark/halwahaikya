@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Saturday, 24 January 2026 at 05:00:33 am
-#FETCHED_AT: 2026-01-24T01:15:33.537Z
+#FETCHED_AT: 2026-01-24T01:22:00.478Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769236202~acl=/*~id=204bdacde3827f40d761a2bfdf4abf74-1769193000222~hmac=6ebcb4bec849cd9b44dacfb900b83af4cd0ff6cdb61aaebed617122af8bb6877
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,15 +52,15 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769236202~acl=/*~id=204bdacde3827f40d761a2bfdf4abf74-1769193000222~hmac=6ebcb4bec849cd9b44dacfb900b83af4cd0ff6cdb61aaebed617122af8bb6877
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769236202~acl=/*~id=204bdacde3827f40d761a2bfdf4abf74-1769193000222~hmac=6ebcb4bec849cd9b44dacfb900b83af4cd0ff6cdb61aaebed617122af8bb6877
-#DATE:- 24-01-2026 06:40
+#DATE:- 24-01-2026 08:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912338286_AO2026_Landscape_Thumb_Pliskova_V_Keys_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Pliskova vs Keys - Round 3 - 24 Jan 2026
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Spizzirri vs Sinner - Round 3 - 24 Jan 2026	
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912338286_AO2026_Landscape_Thumb_Pliskova_V_Keys_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Pliskova vs Keys - Round 3 - 24 Jan 2026
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Spizzirri vs Sinner - Round 3 - 24 Jan 2026	
 https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912338286_AO2026_Landscape_Thumb_Pliskova_V_Keys_SP.jpg" tvg-language="Tamil" group-title="Tennis",TAM | Pliskova vs Keys - Round 3 - 24 Jan 2026
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg" tvg-language="Tamil" group-title="Tennis",TAM | Spizzirri vs Sinner - Round 3 - 24 Jan 2026	
 https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912338286_AO2026_Landscape_Thumb_Pliskova_V_Keys_SP.jpg" tvg-language="Telugu" group-title="Tennis",TEL | Pliskova vs Keys - Round 3 - 24 Jan 2026
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014066/1769195912837286_AO2026_Landscape_Thumb_Spizzirri_V_Sinner_SP.jpg" tvg-language="Telugu" group-title="Tennis",TEL | Spizzirri vs Sinner - Round 3 - 24 Jan 2026	
 https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
