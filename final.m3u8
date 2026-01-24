@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Saturday, 24 January 2026 at 11:00:08 am
-#FETCHED_AT: 2026-01-24T06:48:27.375Z
+#FETCHED_AT: 2026-01-24T07:29:54.133Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769257803~acl=/*~id=9f593328573fe0a2d8e08e6ed89b298a-1769214600123~hmac=21ad09ce72b690b7a2261ad5e8c6c4954f8378cd3bf144c4736f610b30aa9674
-#DATE:- 24-01-2026 12:40
+#DATE:- 24-01-2026 13:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013925/1769053129247613_AO26_Round3_stream1_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Wawrinka vs Fritz - Round 3 - 24 Jan 2026	
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769279402~acl=/*~id=1a10c11687675ead2791efb9f2f82039-1769236200124~hmac=67e2f8e5a095f6177f3ab7c3986169909c3fc56efb8db26e0e7ce9a8f4b8631e
