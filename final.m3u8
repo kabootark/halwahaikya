@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Saturday, 24 January 2026 at 11:00:20 pm
-#FETCHED_AT: 2026-01-24T18:42:20.121Z
+#FETCHED_AT: 2026-01-24T19:12:26.375Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769301001~acl=/*~id=69003744368695024542359498832970~hmac=9804f2ccf1b9e942b78281236676f5c60fa682695714ed32399803c4b58ba64e
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769301001~acl=/*~id=69003744368695024542359498832970~hmac=9804f2ccf1b9e942b78281236676f5c60fa682695714ed32399803c4b58ba64e
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769301001~acl=/*~id=69003744368695024542359498832970~hmac=9804f2ccf1b9e942b78281236676f5c60fa682695714ed32399803c4b58ba64e
-#DATE:- 25-01-2026 00:20
+#DATE:- 25-01-2026 00:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090501238" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768142506296360_bliga26_MD18_Union_Berlin_vs_Dortmund_11jan_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Union Berlin vs Borussia Dortmund - MD 19 - 24 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1769322601~acl=/*~id=83759622872735121793454497194719~hmac=8fcab5729b1c527332292b744d5ab7b9fec6fc6454f4a9a4ed7ffff519beed95
