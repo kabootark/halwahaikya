@@ -52,9 +52,9 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769387401~acl=/*~id=22966733639525868859144855201126~hmac=560e50ed261eba14e37fcc207dbd87bbc638ae4b165892e80a897c3ed55413d6
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769387401~acl=/*~id=22966733639525868859144855201126~hmac=560e50ed261eba14e37fcc207dbd87bbc638ae4b165892e80a897c3ed55413d6
-#DATE:- 26-01-2026 05:00
+#DATE:- 26-01-2026 05:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090498781" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051341169997_AO26_Round3_KIA_Arena_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Kia Arena - 26 Jan 2026
+#EXTINF:-1 tvg-id="1090498781" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014194/1769369548043766_AO2026_Landscape_Thumb_Mens_Doubles_O_Luz_R_Matos_V_A_Goransson_Y_Bhambri_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Kia Arena - 26 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AO/master.m3u8?hdnea=exp=1769409002~acl=/*~id=47076523495035266147322110457172~hmac=9c4670d47c2b1ee1c4aced72e0cd112c5c0115ca0590581116c20dc1920510d4
 #EXTINF:-1 tvg-id="1090498780" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013922/1769051328982997_AO26_Round3_John_Cain_Arena_22jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | John Cain Arena - 26 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-AO/master.m3u8?hdnea=exp=1769409002~acl=/*~id=47076523495035266147322110457172~hmac=9c4670d47c2b1ee1c4aced72e0cd112c5c0115ca0590581116c20dc1920510d4
