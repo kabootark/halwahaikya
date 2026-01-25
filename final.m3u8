@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Sunday, 25 January 2026 at 05:00:27 pm
-#FETCHED_AT: 2026-01-25T12:35:07.404Z
+#FETCHED_AT: 2026-01-25T13:25:15.784Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769365801~acl=/*~id=15766668103427905308506409854050~hmac=a2e3c30d0ee20ef1dfd623be431214fb6db23109ab9d2fecb448d1d41a45fb7c
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,10 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769365801~acl=/*~id=15766668103427905308506409854050~hmac=a2e3c30d0ee20ef1dfd623be431214fb6db23109ab9d2fecb448d1d41a45fb7c
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769365801~acl=/*~id=15766668103427905308506409854050~hmac=a2e3c30d0ee20ef1dfd623be431214fb6db23109ab9d2fecb448d1d41a45fb7c
-#DATE:- 25-01-2026 18:40
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090501465" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013861/1768988605505461_DPworldtour_HeroDubaiDesertClassic_day4_21jan_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Hero Dubai Desert Classic Day 4 - 25 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1769387401~acl=/*~id=22966733639525868859144855201126~hmac=560e50ed261eba14e37fcc207dbd87bbc638ae4b165892e80a897c3ed55413d6
+#DATE:- 25-01-2026 19:00
+#No live matches.
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
