@@ -52,8 +52,12 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769473801~acl=/*~id=70427212849321968907777338369156~hmac=48c8677d345df83a39502edc8ae512ebfea53cfe67b7c2d37d494a3bea456430
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769473801~acl=/*~id=70427212849321968907777338369156~hmac=48c8677d345df83a39502edc8ae512ebfea53cfe67b7c2d37d494a3bea456430
-#DATE:- 26-01-2026 23:40
-#No live matches.
+#DATE:- 27-01-2026 05:00
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090498779" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372844796933_AO26_QF_Margaret_Court_Arena_Landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Margaret Court Arena - 27 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-AO/master.m3u8?hdnea=exp=1769495402~acl=/*~id=02394066681852199340144322337488~hmac=13587e46db914e87ce29256bf70bf50f9346a0abd77593fd160cf271013f6533
+#EXTINF:-1 tvg-id="1090498773" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014198/1769374799588582_AO26_QF_stream2_landscape_thumb_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 2 - 27 Jan 2026
+https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769495402~acl=/*~id=02394066681852199340144322337488~hmac=13587e46db914e87ce29256bf70bf50f9346a0abd77593fd160cf271013f6533
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
