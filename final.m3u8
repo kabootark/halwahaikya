@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769430601~acl=/*~id=30957938981370774892803431203468~hmac=d2020168ae7d714992777e0d17a84a9b2b3162565e0844890aa83aad00aec497
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769430601~acl=/*~id=30957938981370774892803431203468~hmac=d2020168ae7d714992777e0d17a84a9b2b3162565e0844890aa83aad00aec497
-#DATE:- 26-01-2026 13:20
+#DATE:- 26-01-2026 13:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014204/1769407153783908_II16_republic_day_spl_26jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
 https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1769452201~acl=/*~id=53281080690252641007466537350666~hmac=f2fc809e09ef7dd587a762a2dd919894132b897fd889a320387220cd496a9041
@@ -70,7 +70,7 @@ https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-AO/master.m3u8?hdnea=exp=1769452201~acl=/*~id=53281080690252641007466537350666~hmac=f2fc809e09ef7dd587a762a2dd919894132b897fd889a320387220cd496a9041
 #EXTINF:-1 tvg-id="1090498779" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014052/1769183311596813_AO26_Round4_Margaret_Court_Arena_23jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Luciano Darderi vs Jannik Sinner - Men's Singles - 26 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-AO/master.m3u8?hdnea=exp=1769452201~acl=/*~id=53281080690252641007466537350666~hmac=f2fc809e09ef7dd587a762a2dd919894132b897fd889a320387220cd496a9041
-#EXTINF:-1 tvg-id="1090498780" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014052/1769182611380813_AO26_Round4_John_Cain_Arena_23jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Romios M C / Joint M vs Pavic M / Krunic A - Mixed Doubles - 26 Jan 2026
+#EXTINF:-1 tvg-id="1090498780" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014052/1769182611380813_AO26_Round4_John_Cain_Arena_23jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | John Cain Arena - 26 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-AO/master.m3u8?hdnea=exp=1769452201~acl=/*~id=53281080690252641007466537350666~hmac=f2fc809e09ef7dd587a762a2dd919894132b897fd889a320387220cd496a9041
 #EXTINF:-1 tvg-id="1090498773" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014053/1769183999862267_AO26_round4_stream2_23jan_landscape_thumb_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 2 - 26 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769452201~acl=/*~id=53281080690252641007466537350666~hmac=f2fc809e09ef7dd587a762a2dd919894132b897fd889a320387220cd496a9041
