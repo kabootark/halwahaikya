@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769517001~acl=/*~id=93000170722074591224925162627846~hmac=a7d455d33181858edfa69259555f7de94af191a1043783600d5c92cf01e44b89
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769517001~acl=/*~id=93000170722074591224925162627846~hmac=a7d455d33181858edfa69259555f7de94af191a1043783600d5c92cf01e44b89
-#DATE:- 27-01-2026 16:00
+#DATE:- 27-01-2026 16:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090501673" tvg-name="England Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 3rd ODI - 27 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8?hdnea=exp=1769537424~acl=/*~id=75590328094239543923334809796798~hmac=0e7371c54dbf4fcdcd7237398c6ab0cb42224de9d738f257e38d6654981e9a29
@@ -68,8 +68,6 @@ https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=e
 https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_mdh-800300010.m3u8?hdnea=exp=1769537424~acl=/*~id=75590328094239543923334809796798~hmac=0e7371c54dbf4fcdcd7237398c6ab0cb42224de9d738f257e38d6654981e9a29
 #EXTINF:-1 tvg-id="1090498778" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372815753933_AO26_QF_Rod_Laver-_Arena_Landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Carlos Alcaraz vs Alex de Minaur - Men's Singles - 27 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-AO/master.m3u8?hdnea=exp=1769537424~acl=/*~id=75590328094239543923334809796798~hmac=0e7371c54dbf4fcdcd7237398c6ab0cb42224de9d738f257e38d6654981e9a29
-#EXTINF:-1 tvg-id="1090498779" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372844796933_AO26_QF_Margaret_Court_Arena_Landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Verbeek S / Siniakova K vs Guinard M / Mladenovic K - Mixed Doubles - 27 Jan 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_mdh-800300010.m3u8?hdnea=exp=1769537424~acl=/*~id=75590328094239543923334809796798~hmac=0e7371c54dbf4fcdcd7237398c6ab0cb42224de9d738f257e38d6654981e9a29
 #EXTINF:-1 tvg-id="1090498773" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014198/1769374799588582_AO26_QF_stream2_landscape_thumb_SP.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 2 - 27 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-AO/master.m3u8?hdnea=exp=1769537424~acl=/*~id=75590328094239543923334809796798~hmac=0e7371c54dbf4fcdcd7237398c6ab0cb42224de9d738f257e38d6654981e9a29
 ##--!!--## END AUTO-UPDATE ##--!!--##
