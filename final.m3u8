@@ -52,12 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
-#DATE:- 27-01-2026 22:20
+#DATE:- 27-01-2026 22:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013880/176900423941321_sti26_simulcast_21jan_landscape_thumb.jpg" group-title="Reality",Shark Tank India
 https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8?hdnea=exp=1769560201~acl=/*~id=43371975924426029154066245516973~hmac=e0133d008ec9a40cd904c317db89c963c6189a782b3011d1b2efcaf474a1adeb
-#EXTINF:-1 tvg-id="1090501673" tvg-name="England Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 3rd ODI - 27 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8?hdnea=exp=1769560201~acl=/*~id=43371975924426029154066245516973~hmac=e0133d008ec9a40cd904c317db89c963c6189a782b3011d1b2efcaf474a1adeb
 #EXTINF:-1 tvg-id="1090501812" tvg-name="World Legends Pro T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769330254386276_WLPT20L26_rajasthan_vs_maharashtra_25jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Rajasthan Lions vs Maharashtra Tycoons - 27 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1769560201~acl=/*~id=43371975924426029154066245516973~hmac=e0133d008ec9a40cd904c317db89c963c6189a782b3011d1b2efcaf474a1adeb
 #EXTINF:-1 tvg-id="1090501839" tvg-name="Pro Wrestling League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013447/176848583247930_PWL_26_Delhi-Dangal-Warriors-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg" tvg-language="English" group-title="Wrestling",ENG | Delhi Dangal Warriors vs Tiigers Of Mumbai Dangal - 27 Jan 2026
