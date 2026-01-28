@@ -77,7 +77,194 @@ https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=e
 
 
 
-
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png",IN | ZEE TV
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221250|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png",IN | ZEE TV HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66162|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png",IN | ZEE TV [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66163|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png",IN | SONY SET (TATAPLAY)
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221251|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png",IN | SONY SET HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66164|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png",IN | SONY SET [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66165|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png",IN | STAR PLUS
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221252|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png",IN | STAR PLUS HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66166|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png",IN | STAR PLUS FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66208|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/Colors.uk.png",IN | COLORS
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221254|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/Colors.uk.png",IN | COLORS HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66167|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/Colors.uk.png",IN | COLORS [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66168|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarBharat.in.png",IN | STAR BHARAT
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221255|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarBharat.in.png",IN | STAR BHARAT HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66170|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarBharat.in.png",IN | STAR BHARAT [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66171|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonySAB.in.png",IN | SONY SAB
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221256|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonySAB.in.png",IN | SONY SAB HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66174|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonySAB.in.png",IN | SONY SAB UK*
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66175|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",IN: SONY SAB [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104194|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndTV.in.png",IN | TV
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221253|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndTV.in.png",IN | TV HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66172|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndTV.in.png",IN | TV [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66173|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428",IN | STAR GOLD THRILLS
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221258|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/StarGold.in.png",IN | STAR GOLD HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66177|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/StarGold.in.png",IN | STAR GOLD [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66178|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png",IN | STAR GOLD SELECT
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221257|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png",IN | STAR GOLD SELECT FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66176|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548",IND: STAR GOLD 2
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=106133|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",IN: STAR GOLD HD (TATASKY)
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112982|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN |  PICTURES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221260|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN |  PICTURES HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66181|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN |  PICTURES [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66183|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",IN | ZEE CINEMA FHD (TATASKY)
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221261|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",IN | ZEE CINEMA HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206307|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",IN | ZEE CINEMA [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206308|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",IND: ZEE CINEMA USA
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206268|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg",IN: DHAMAKA MOVIES B4U
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66184|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://tvwish.com/img/channel/35.jpg",IN: OSCAR MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66185|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://i.imgur.com/f8LVeMG.png",IN: STAR GOLD ROMANCE
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66186|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",IN: COLORS CINEPLEX
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104191|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",IN: COLORS CINEPLEX FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206310|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/SonyMax.in.png",IN | SONY MAX (TATAPLAY)
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=221259|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/SonyMax.in.png",IN | SONY MAX HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66179|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/SonyMax.in.png",IN | SONY MAX [FHD]
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66180|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/SonyMax2.in.png",IN | SONY MAX 2
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66189|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png",IN | ZEE ANMOL CINEMA
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66187|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png",IN | COLORS RISHTEY
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66188|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png",IN: COLOR CINEPLEX SUPERHITS
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66199|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="0" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/ZeeAction.in.png",IN | ZEE ACTION
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66191|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854",IN | ZEE CLASSIC
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66201|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://b1g.fun/logos2/b_flix.jpg",IN: BFLIX MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104190|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg",IN | SONY PAL
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104192|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/BigMagic.in.png",IND: BIG MAGIC
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104198|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818",IND: B4U KADAK
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104199|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="http://b1g.fun/logos2/abzy_movies.jpg",IND: ABZY MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104200|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="",IND: B4U MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104201|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="http://b1g.fun/logos2/enterr10_movies.jpg",IND: ENTER 10 MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104202|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",IND: MANORANJAN TV
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104203|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",IN | ZEE ANMOL
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66357|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",IND: MANORANJAN MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104204|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png",IN | MAHA MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=104206|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.epg.best/in/WOWCinema.in.png",IN: WOW CINEMA ONE
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=106132|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",IN: |UK| ZEE CINEMA UK
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112970|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540",IN: STAR UTSAV MOVIES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112971|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg",IN: GOLDMINES
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112972|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png",IN: GOLDMINES BOLLYWOOD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112973|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/DDNational.in.png",IN: DD NATIONAL
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112975|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png",IN: ZEE TV CANADA
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112976|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg",IN: STAR UTSAV
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112977|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",IND: DHAMAAL TV*
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112978|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png",IN | SONY WAH
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112979|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Colors-Cineplex-Bollywood.png",IND: COLORS CINEPLEX BOLLYWOOD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112983|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",IN: MBC BOLLYWOOD*
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112984|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="",IN: GEM BOLLYWOOD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112986|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg",IND: DABANGG
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206270|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",IND: ZEE CINEMA SD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206271|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | MOVIES" tvg-logo="https://www.dishtv.in/Images/Active-Services/CineActivelogo.png",IN: MOVIES ACTIVE FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206276|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",IN | ZEE AFLAM
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=206277|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg",IN: ZEE BOLLYWOOD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=207200|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png",IN | STAR WORLD HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66211|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png",IN | STAR MOVIES FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66213|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",IN | SONY PIX FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66224|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",IN | PRIVE FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66228|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png",IN | HBO HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66229|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png",IN |  FLIX FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66236|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="",IN:  EXPLOR FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66241|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",IN: MNX FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66266|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/MoviesNow.in.png",IN | MOVIES NOW FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66271|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png",IN | BBO HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66277|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png",IN | FOX LIFE FHD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66278|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png",IN | ROMEDY NOW
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66282|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png",IN | ZEE CAFE HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66287|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | D2H ACTIVE" tvg-logo="https://static.epg.best/kr/AXN.kr.png",IN | AXN HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66313|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="" group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",IN | STAR MOVIES SELECT HD
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66315|User-Agent=RANAPK
 
 
 
