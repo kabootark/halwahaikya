@@ -52,10 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769711406~acl=/*~id=25566876736700612164762661626910~hmac=6913ce8e2d7926aec42d75a1d08c6c666f3e55720074e5e8ff835b4b2102b900
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769711406~acl=/*~id=25566876736700612164762661626910~hmac=6913ce8e2d7926aec42d75a1d08c6c666f3e55720074e5e8ff835b4b2102b900
-#DATE:- 29-01-2026 21:20
+#DATE:- 29-01-2026 22:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Wheel Of Fortune
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1769730622~acl=/*~id=44137364907737951386055308314895~hmac=5709895d591eaec60af2b5e166d8c103c0e6d27c264583dfa8b3b8e7661956b8
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014476/1769692585073510_STI_S5_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1769730622~acl=/*~id=44137364907737951386055308314895~hmac=5709895d591eaec60af2b5e166d8c103c0e6d27c264583dfa8b3b8e7661956b8
 #EXTINF:-1 tvg-id="1090502247" tvg-name="World Legends Pro T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014271/1769502800208774_World_Legends_Pro_T20_League_2026_Gurugram-Thunders-vs-Maharashtra-Tycoons_landscape_thumb_rev.jpg" tvg-language="English" group-title="Cricket",ENG | Gurugram Thunders vs Maharashtra Tycoons - 29 Jan 2026
