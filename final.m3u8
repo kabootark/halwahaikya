@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769797802~acl=/*~id=60972176582364541351306708528465~hmac=6a7edf7deaf60b8ac406cea0e6c1bc8b63bed0293b4896e030a9235466e27ea4
-#DATE:- 30-01-2026 21:20
+#DATE:- 30-01-2026 22:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Wheel Of Fortune
 https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
@@ -70,14 +70,6 @@ https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
 #EXTINF:-1 tvg-id="1090502577" tvg-name="World Pickleball League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769592214749674_WPL26_Bengaluru-vs-Delhi_landscape_thumb.jpg" tvg-language="English" group-title="Pickleball",ENG | Bengaluru Jawans vs Dilli Dillwale - 30 Jan 2026
 https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 1 - 30 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Stream 1 - 30 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="Tamil" group-title="Tennis",TAM | Stream 1 - 30 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
-#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg" tvg-language="Telugu" group-title="Tennis",TEL | Stream 1 - 30 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1769819402~acl=/*~id=80698557106589672545816922871418~hmac=9bb5b09bccada45c298b147ca715d7a2b5538bc9e45626c9145d6c5d82a62c20
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
