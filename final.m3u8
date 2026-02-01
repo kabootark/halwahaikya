@@ -52,10 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769970602~acl=/*~id=75057909265163929955051946474872~hmac=3017f578f8f2ff084187b62fa0d78f219e469959f026f0abfe44784a05b3f124
-#DATE:- 01-02-2026 21:40
+#DATE:- 01-02-2026 22:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014680/1769862987560968_IndianIdol_S16_31jan26_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1769992202~acl=/*~id=79085173609966908024404441131567~hmac=39cc19d7894fae685e70d6de727b799c81960ad7d1135785ec31540a6b658284
 #EXTINF:-1 tvg-id="1090502887" tvg-name="England Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749424027553_SLvsENG26_2t20i_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 2nd T20I - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI35-criclive/master.m3u8?hdnea=exp=1769992202~acl=/*~id=79085173609966908024404441131567~hmac=39cc19d7894fae685e70d6de727b799c81960ad7d1135785ec31540a6b658284
 #EXTINF:-1 tvg-id="1090502889" tvg-name="World Legends Pro T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014710/1769904850483948_WLP26_DelhiWarriors_vs_GurugramThunders_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Delhi Warriors vs Gurugram Thunders - 1 Feb 2026
@@ -70,8 +68,6 @@ https://sonymtmnew.akamaized.net/hls/live/2037139/DAI19ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1769992202~acl=/*~id=79085173609966908024404441131567~hmac=39cc19d7894fae685e70d6de727b799c81960ad7d1135785ec31540a6b658284
 #EXTINF:-1 tvg-id="1090502890" tvg-name="World Pickleball League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769591206847675_WPL26_Jaipur-vs-Pune_landscape_thumb.jpg" tvg-language="English" group-title="Pickleball",ENG | Rajasthan Titans vs Pune United - 1 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1769992202~acl=/*~id=79085173609966908024404441131567~hmac=39cc19d7894fae685e70d6de727b799c81960ad7d1135785ec31540a6b658284
-#EXTINF:-1 tvg-id="1090502892" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014298/1769510751555875_Bundesliga_2025_26_VFB-Stuttgart-vs-Freiburg_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | VfB Stuttgart vs SC Freiburg - MD 20 - 1 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1769992202~acl=/*~id=79085173609966908024404441131567~hmac=39cc19d7894fae685e70d6de727b799c81960ad7d1135785ec31540a6b658284
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
