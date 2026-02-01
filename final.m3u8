@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Sunday, 1 February 2026 at 11:00:19 am
-#FETCHED_AT: 2026-02-01T06:41:22.671Z
+#FETCHED_AT: 2026-02-01T07:17:00.842Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,8 +52,16 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
-#DATE:- 01-02-2026 11:20
-#No live matches.
+#DATE:- 01-02-2026 12:40
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Tennis",ENG | Stream 1 - 1 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2005445/DAI06ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="Hindi" group-title="Tennis",HIN | Stream 1 - 1 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="Tamil" group-title="Tennis",TAM | Stream 1 - 1 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2037143/DAI23ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
+#EXTINF:-1 tvg-id="1090499148" tvg-name="Australian Open 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014575/1769774583494206_AO26_final_stream1_30jan_landscape_thumb.jpg" tvg-language="Telugu" group-title="Tennis",TEL | Stream 1 - 1 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-AO/master.m3u8?hdnea=exp=1769949002~acl=/*~id=26595425810487039642334944276895~hmac=94b97a38db3c7a10c07fff51a34eac1003b5624e9871f4c00213f5907efbe71a
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
