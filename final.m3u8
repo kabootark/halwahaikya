@@ -52,10 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b
-#DATE:- 03-02-2026 21:20
+#DATE:- 03-02-2026 22:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Wheel Of Fortune
-https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014476/1769692585073510_STI_S5_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
 #EXTINF:-1 tvg-id="1090503083" tvg-name="England Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014532/1769749435142553_SLvsENG26_3t20i_30jan_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 3rd T20I - 3 Feb 2026
@@ -66,10 +64,8 @@ https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
 #EXTINF:-1 tvg-id="1090503008" tvg-name="World Pickelball League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014730/1769947364481742_WPL26_Delhi_vs_Pune_1feb_landscape_thumb.jpg" tvg-language="English" group-title="Pickleball",ENG | Dilli Dilwale vs Pune United - 3 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
-#EXTINF:-1 tvg-id="1090503010" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014781/177003566167730_UYL2526_RD32_Club-Brugge-vs-Monaco_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Club Brugge vs Monaco - 3 Feb 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
-#EXTINF:-1 tvg-id="1090503011" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014781/177003610113830_UYL2526_RD32_Real-Madrid-vs-Marseille_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Real Madrid vs Marseille - 3 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
+#EXTINF:-1 tvg-id="1090503012" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014781/177003646252030_UYL2526_RD32_Chelsea-vs-PSV_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Chelsea vs PSV - 3 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2022316/DAI12ME-V3/master.m3u8?hdnea=exp=1770165002~acl=/*~id=12539746965430074212774336670874~hmac=c82ddf756d5a8cbb5fecdcc13c65171cbb835b370cf616e9ad1e6b7fac8ec116
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
