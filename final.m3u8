@@ -52,8 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1770661802~acl=/*~id=12003238762577479655909040706470~hmac=27c1b7c239a3416b41fa197e8bce8083b553e202d4e72765a5152632a90d9132
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1770661802~acl=/*~id=12003238762577479655909040706470~hmac=27c1b7c239a3416b41fa197e8bce8083b553e202d4e72765a5152632a90d9132
-#DATE:- 09-02-2026 19:40
+#DATE:- 09-02-2026 20:40
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014480/1769695211403107_WOF_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Wheel Of Fortune
+https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1770683402~acl=/*~id=34697635158090279794195626030187~hmac=de8ed3d35fe83b0f345baf97f6583c2be4afdcc71826bf50e59967b39887437a
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014476/1769692585073510_STI_S5_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1770683402~acl=/*~id=34697635158090279794195626030187~hmac=de8ed3d35fe83b0f345baf97f6583c2be4afdcc71826bf50e59967b39887437a
 #EXTINF:-1 tvg-id="1090498703" tvg-name="MasterChef India - Hindi" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014035/1769173700454448_MCI_S4_23jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Cookery",HIN | MasterChef India - Hindi
