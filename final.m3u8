@@ -52,10 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1770748203~acl=/*~id=82127373463651099815896569775415~hmac=d3cf9f0fe5204010c9e5a7dd7d4e052cfe2078720834d7d7c6165d7ce60127aa
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1770748203~acl=/*~id=82127373463651099815896569775415~hmac=d3cf9f0fe5204010c9e5a7dd7d4e052cfe2078720834d7d7c6165d7ce60127aa
-#DATE:- 10-02-2026 23:00
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014476/1769692585073510_STI_S5_29jan_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
-https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1770769802~acl=/*~id=14840812230852503001064371687164~hmac=899e6a742bae703027f1db9a67653f0157647f975b8df7d3b86a0dcf29d2dc8d
+#DATE:- 10-02-2026 23:40
+ #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
