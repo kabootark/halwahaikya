@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Sunday, 15 February 2026 at 11:00:11 am
-#FETCHED_AT: 2026-02-15T07:18:35.801Z
+#FETCHED_AT: 2026-02-15T07:27:02.349Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1771158602~acl=/*~id=02750370203375205171228985722612~hmac=fde02f62897490e6ed522752f67df8194a794432ee7c977bdb2f12790bb4f5d2
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771158602~acl=/*~id=02750370203375205171228985722612~hmac=fde02f62897490e6ed522752f67df8194a794432ee7c977bdb2f12790bb4f5d2
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771158602~acl=/*~id=02750370203375205171228985722612~hmac=fde02f62897490e6ed522752f67df8194a794432ee7c977bdb2f12790bb4f5d2
-#DATE:- 15-02-2026 12:40
+#DATE:- 15-02-2026 13:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090503968" tvg-name="ACC Women’s Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015155/1771001454130565_AsiaCup_RisingStar_Womens2026_india_a_vs_PAK_A_13feb_clean_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | India A Women vs Pakistan A Women - 15 Feb 2026
 https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16-criclive/master.m3u8?hdnea=exp=1771158602~acl=/*~id=02750370203375205171228985722612~hmac=fde02f62897490e6ed522752f67df8194a794432ee7c977bdb2f12790bb4f5d2
