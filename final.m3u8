@@ -52,10 +52,14 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771353001~acl=/*~id=42420711471440377710140685341343~hmac=c2ef5a3bce81f9c14343025f48d9b0e3e1866bf48412f85c95c436d3ecfe50e8
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771353001~acl=/*~id=42420711471440377710140685341343~hmac=c2ef5a3bce81f9c14343025f48d9b0e3e1866bf48412f85c95c436d3ecfe50e8
-#DATE:- 17-02-2026 19:20
+#DATE:- 17-02-2026 20:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015023/1770789822227536_STI_S5_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1771374602~acl=/*~id=06639919535726480865550694219463~hmac=4c70d5c77cda7aad577402f1ec4bfe7ade2116770578ec2eef1f97d676063c44
+#EXTINF:-1 tvg-id="1090498703" tvg-name="MasterChef India - Hindi" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015324/1771336173736832_MCI_S4_simulcast_17feb_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Cookery",HIN | MasterChef India - Hindi
+https://sonymtmnew.akamaized.net/hls/live/2037142/DAI22ME-MCI/master.m3u8?hdnea=exp=1771374602~acl=/*~id=06639919535726480865550694219463~hmac=4c70d5c77cda7aad577402f1ec4bfe7ade2116770578ec2eef1f97d676063c44
 #EXTINF:-1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Cricket Blockbusters 24x7
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771353001~acl=/*~id=42420711471440377710140685341343~hmac=c2ef5a3bce81f9c14343025f48d9b0e3e1866bf48412f85c95c436d3ecfe50e8
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771374602~acl=/*~id=06639919535726480865550694219463~hmac=4c70d5c77cda7aad577402f1ec4bfe7ade2116770578ec2eef1f97d676063c44
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
