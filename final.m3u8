@@ -7,7 +7,7 @@
 ##--!!--## START AUTO-UPDATE ##--!!--##
 #EXTM3U
 #DATE: Thursday, 19 February 2026 at 11:03:11 am
-#FETCHED_AT: 2026-02-19T06:58:28.861Z
+#FETCHED_AT: 2026-02-19T07:28:48.715Z
 #EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1771504352~acl=/*~id=89113324632718519128835666876335~hmac=77f0a7b4ecf4ce5dcdfa26729c11023ded07995d7c117f50dca92ad28adc83a1
 #EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771504352~acl=/*~id=89113324632718519128835666876335~hmac=77f0a7b4ecf4ce5dcdfa26729c11023ded07995d7c117f50dca92ad28adc83a1
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771504352~acl=/*~id=89113324632718519128835666876335~hmac=77f0a7b4ecf4ce5dcdfa26729c11023ded07995d7c117f50dca92ad28adc83a1
-#DATE:- 19-02-2026 12:40
+#DATE:- 19-02-2026 13:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090475059" tvg-name="Cricket Classics" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Cricket Blockbusters 24x7
 https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771504352~acl=/*~id=89113324632718519128835666876335~hmac=77f0a7b4ecf4ce5dcdfa26729c11023ded07995d7c117f50dca92ad28adc83a1
