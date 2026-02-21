@@ -52,8 +52,18 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
-#DATE:- 21-02-2026 16:40
- #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- 21-02-2026 19:20
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090504618" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770359048482999_BLIGA_26_MD23_Bayern-Munich-vs-Eintracht-Frankfurt_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Bayern Munich vs Eintracht Frankfurt - MD 23 - 21 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
+#EXTINF:-1 tvg-id="1090504607" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Goal Arena - MD 23 - 21 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
+#EXTINF:-1 tvg-id="1090504611" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770358588893999_BLIGA_26_MD23_Union-Berlin-vs-Bayer-Leverkusen_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Union Berlin vs Bayer Leverkusen - MD 23 - 21 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
+#EXTINF:-1 tvg-id="1090504621" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770361855584999_BLIGA_26_MD23_FC-Koln-vs-Hoffenheim_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | FC Koln vs Hoffenheim - MD 23 - 21 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
+#EXTINF:-1 tvg-id="1090504637" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770362117061999_BLIGA_26_MD23_VfL-Wolfsburg-vs-FC-Augsburg_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | VfL Wolfsburg vs FC Augsburg - MD 23 - 21 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1771698602~acl=/*~id=94399281697494621134413453308614~hmac=4fbce984f43753f9fb03d3f7de67d038a404b2f4130fa4a2575910b9c5953830
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
