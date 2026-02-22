@@ -52,16 +52,8 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771741805~acl=/*~id=55196337720687347277101266764673~hmac=fe26fa525c4c12ea13548d53822791863852d34bb840371e1c30e046e22a7f91
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771741805~acl=/*~id=55196337720687347277101266764673~hmac=fe26fa525c4c12ea13548d53822791863852d34bb840371e1c30e046e22a7f91
-#DATE:- 22-02-2026 08:01
-#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090504653" tvg-name="UFC Fight Night - Strickland vs Hernandez" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" tvg-language="English" group-title="Fight Sports",ENG | UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2022320/DAI16ME-UFC/master.m3u8?hdnea=exp=1771763403~acl=/*~id=27241007050132667091681549932549~hmac=b92c05683414aba2b334abb9a244bf4c8831496940ba6b13db899911e6c601f4
-#EXTINF:-1 tvg-id="1090504653" tvg-name="UFC Fight Night - Strickland vs Hernandez" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" tvg-language="Hindi" group-title="Fight Sports",HIN | UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-UFC/master.m3u8?hdnea=exp=1771763403~acl=/*~id=27241007050132667091681549932549~hmac=b92c05683414aba2b334abb9a244bf4c8831496940ba6b13db899911e6c601f4
-#EXTINF:-1 tvg-id="1090504653" tvg-name="UFC Fight Night - Strickland vs Hernandez" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" tvg-language="Tamil" group-title="Fight Sports",TAM | UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-UFC/master.m3u8?hdnea=exp=1771763403~acl=/*~id=27241007050132667091681549932549~hmac=b92c05683414aba2b334abb9a244bf4c8831496940ba6b13db899911e6c601f4
-#EXTINF:-1 tvg-id="1090504653" tvg-name="UFC Fight Night - Strickland vs Hernandez" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015476/1771652994645249_UFC_Fight_Night_Strickland_vs_Hernandez_landscape_thumb.jpg" tvg-language="Telugu" group-title="Fight Sports",TEL | UFC Fight Night - Strickland vs Hernandez - 22 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-UFC/master.m3u8?hdnea=exp=1771763403~acl=/*~id=27241007050132667091681549932549~hmac=b92c05683414aba2b334abb9a244bf4c8831496940ba6b13db899911e6c601f4
+#DATE:- 22-02-2026 10:00
+ #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
