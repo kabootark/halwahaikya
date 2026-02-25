@@ -52,8 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
-#DATE:- 25-02-2026 15:03
- #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- 25-02-2026 18:40
+#Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090504793" tvg-name="UEFA Youth League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689036229794_UEFAYouthLeague26_Roundof16_PSG_vs_HJK_21feb_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | PSG vs HJK - 25 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2094589/DAI05ME-V3/master.m3u8?hdnea=exp=1772044204~acl=/*~id=61966243728077098760575142091658~hmac=19f44cec982a9051feb1d166a73e3ba9959c41ce81d7b14265d82f9b7ecec898
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
