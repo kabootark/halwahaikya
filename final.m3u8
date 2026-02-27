@@ -52,10 +52,12 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
-#DATE:- 27-02-2026 15:20
+#DATE:- 27-02-2026 16:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090505221" tvg-name="Zimbabwe Women's Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094832114709_NZw_vs_ZIMw_2ndT20i_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 2nd T20I - 27 Feb 2026
-https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1772217006~acl=/*~id=1b2523c8badabd1fa3b0929b048401f4-1772173800157~hmac=536a24d417a18cea308ee486c24b2773ef99b71c47ad9b448eb9f7121fda8d2f
+#EXTINF:-1 tvg-id="1090505227" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015612/1772091081592940_UCL26_RD16_QF_SF_Draw_25feb1_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Round of 16 Quarter-final and Semi-final Draw - 27 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1772217006~acl=/*~id=1b2523c8badabd1fa3b0929b048401f4-1772173800157~hmac=536a24d417a18cea308ee486c24b2773ef99b71c47ad9b448eb9f7121fda8d2f
+#EXTINF:-1 tvg-id="1090505222" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" tvg-language="English" group-title="Golf",ENG | Investec South African Open Day 2 - 27 Feb 2026
+https://sonymtmnew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1772217006~acl=/*~id=1b2523c8badabd1fa3b0929b048401f4-1772173800157~hmac=536a24d417a18cea308ee486c24b2773ef99b71c47ad9b448eb9f7121fda8d2f
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
