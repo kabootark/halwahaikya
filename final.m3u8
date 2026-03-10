@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
-#DATE:- 11-03-2026 02:20
+#DATE:- 11-03-2026 03:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090505919" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010335908551_UCL26_R16_leg1_Newcastle_vs_Barcelona_8mar_eng_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Newcastle vs Barcelona - Round Of 16 - Leg 1 - 11 Mar 2026
 https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master.m3u8?hdnea=exp=1773210859~acl=/*~id=67063359005563354254222696310148~hmac=0adf391b8940121aacd15ec47b28f5f85dca4d46543a28b6e0e30ee7b3391078
@@ -72,6 +72,8 @@ https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=exp=1773210859~acl=/*~id=67063359005563354254222696310148~hmac=0adf391b8940121aacd15ec47b28f5f85dca4d46543a28b6e0e30ee7b3391078
 #EXTINF:-1 tvg-id="1090505979" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010545076551_UCL26_R16_leg1_Atalanta_vs_Bayern_8mar_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Atalanta vs Bayern - Round Of 16 - Leg 1 - 11 Mar 2026
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1773210859~acl=/*~id=67063359005563354254222696310148~hmac=0adf391b8940121aacd15ec47b28f5f85dca4d46543a28b6e0e30ee7b3391078
+#EXTINF:-1 tvg-id="1090506020" tvg-name="Zimbabwe Women's Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015895/1772875382658420_NZw_vs_ZIMw_3ODI_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | 3rd ODI - 11 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773210859~acl=/*~id=67063359005563354254222696310148~hmac=0adf391b8940121aacd15ec47b28f5f85dca4d46543a28b6e0e30ee7b3391078
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
