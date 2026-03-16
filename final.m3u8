@@ -52,8 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
-#DATE:- 16-03-2026 20:00
+#DATE:- 16-03-2026 21:00
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#EXTINF:-1 tvg-id="1090500468" tvg-name="Wheel Of Fortune" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015047/1770813954717228_WOF_11feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Wheel Of Fortune
+https://sonymtmnew.akamaized.net/hls/live/2022321/DAI17ME-WOF/master.m3u8?hdnea=exp=1773707404~acl=/*~id=91298579365872396443506349553620~hmac=c1031634c535af2f63e5351ee35e5a1791f65b7f529d8a92871c665f4b077f10
 #EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality",HIN | Shark Tank India
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1773707404~acl=/*~id=91298579365872396443506349553620~hmac=c1031634c535af2f63e5351ee35e5a1791f65b7f529d8a92871c665f4b077f10
 ##--!!--## END AUTO-UPDATE ##--!!--##
