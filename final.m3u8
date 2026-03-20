@@ -52,10 +52,10 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
-#DATE:- 20-03-2026 17:20
+#DATE:- 20-03-2026 18:45
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-id="1090507236" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773649156416805_IFC_Gokulam_Kerala_FC-vs-Dempo_Sports_Club_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Gokulam Kerala FC vs Dempo Sports Club  - 20 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/20000091/DAI23-M5/master.m3u8?hdnea=exp=1774043445~acl=/*~id=08391868890312998329788277802463~hmac=7bbdc8f28b41d0bacd30b80b249e0ceb98c218b790f2872736a6f75576cab785
+#EXTINF:-1 tvg-id="1090507247" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648994019805_IFC_Aizawl_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Aizawl FC vs Diamond Harbour FC - 20 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1774043445~acl=/*~id=08391868890312998329788277802463~hmac=7bbdc8f28b41d0bacd30b80b249e0ceb98c218b790f2872736a6f75576cab785
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
