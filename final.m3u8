@@ -52,7 +52,7 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1771914784~acl=/*~id=77284567316916060422542621040611~hmac=d5553eaa26eae30a00d73439e6c27e8adc27edefa6d8ed87de8c585cd5c1a6cc
-#DATE:- 21-03-2026 20:40
+#DATE:- 21-03-2026 21:20
 #Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 #EXTINF:-1 tvg-id="1090492547" tvg-name="Indian Idol" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016459/1774094219997643_idol_21march_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Reality, Music",HIN | Indian Idol
 https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-II/master.m3u8?hdnea=exp=1774133519~acl=/*~id=92293277859318535671957025304124~hmac=ab9b5049604e66b51bb48356fc52a97f2418f654e5ecc4e900abe82365787b4a
@@ -66,8 +66,6 @@ https://sonymtmnew.akamaized.net/hls/live/2018457/DAI09ME-V3/master.m3u8?hdnea=e
 https://sonymtmnew.akamaized.net/hls/live/2022315/DAI11ME-V3/master.m3u8?hdnea=exp=1774133519~acl=/*~id=92293277859318535671957025304124~hmac=ab9b5049604e66b51bb48356fc52a97f2418f654e5ecc4e900abe82365787b4a
 #EXTINF:-1 tvg-id="1090507318" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Goal Arena - MD 27 - 21 Mar 2026
 https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1774133519~acl=/*~id=92293277859318535671957025304124~hmac=ab9b5049604e66b51bb48356fc52a97f2418f654e5ecc4e900abe82365787b4a
-#EXTINF:-1 tvg-id="1090507314" tvg-name="ABB FIA Formula E World Championship" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015719/1772376112679740_ABB_FIA_FormulaE_WC26_Round6_Madrid_EPrix_final_Race_1mar_landscape_thumb.jpg" tvg-language="English" group-title="Racing",ENG | Round 6 - Madrid E-Prix - Final Race - 21 Mar 2026
-https://sonymtmnew.akamaized.net/hls/live/20000091/DAI18-M5/master.m3u8?hdnea=exp=1774133519~acl=/*~id=92293277859318535671957025304124~hmac=ab9b5049604e66b51bb48356fc52a97f2418f654e5ecc4e900abe82365787b4a
 ##--!!--## END AUTO-UPDATE ##--!!--##
 
 
