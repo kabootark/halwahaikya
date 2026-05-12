@@ -5,3 +5,37 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://cdn-2.pishow.tv/live/12/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",News18 India
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",India TV
+https://mumt01.tangotv.in/INDIATV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a0dd
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a0d0
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a032
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a01i
+http://103.157.248.140:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a00b
+http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a09z
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a0cs
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a0a1
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a0db
+http://103.229.254.25:7001/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a01l
+http://103.157.248.140:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a0a0
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel a01m
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Channel index_7
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
