@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="News",ABP News (1080p)
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PiShow Live 12
 https://cdn-2.pishow.tv/live/12/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",News18 India
