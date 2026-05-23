@@ -7,6 +7,22 @@ http://xx96.uk:8880/44676990/10884764/1056304
 http://xx96.uk:8880/44676990/10884764/1056301
 #EXTINF:-1 tvg-id="4" tvg-name="IPL LIVE 24 / 7  HINDI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAglA1fqnzVHqL1yfCEFM3NN2XjL68YWT2BQ&s" group-title="Indian Premier League",IPL LIVE 24 / 7  HINDI HD
 http://xx96.uk:8880/44676990/10884764/1056307
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="IN - DD BHARTI" tvg-logo="http://103.176.90.118/picons-dino/logos/DD-BHARTI.png" group-title="|AS| INDIA",IN - DD BHARTI
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281319
+#EXTINF:-1 tvg-id="DDBihar.in" tvg-name="IN - DD BIHAR" tvg-logo="http://103.176.90.118/picons-dino/logos/DD-BIHAR.jpg" group-title="|AS| INDIA",IN - DD BIHAR
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281320
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="IN - DD INDIA" tvg-logo="http://103.176.90.118/picons-dino/logos/ddindia.png" group-title="|AS| INDIA",IN - DD INDIA
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281321
+#EXTINF:-1 tvg-id="DDMadhyapradesh.in" tvg-name="IN - DD MP" tvg-logo="http://103.176.90.118/picons-dino/logos/DD-MP.jpeg" group-title="|AS| INDIA",IN - DD MP
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281322
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="IN - DD NATIONAL UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ddnationalhd.jpg" group-title="|AS| INDIA",IN - DD NATIONAL UHD
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281323
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="IN - DD NEWS UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/ddnews.jpg" group-title="|AS| INDIA",IN - DD NEWS UHD
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281324
+#EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name="IN - DD RAJASTHAN" tvg-logo="http://103.176.90.118/picons-dino/logos/ddrajashtan.jpg" group-title="|AS| INDIA",IN - DD RAJASTHAN
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281325
+#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="IN - DD UP" tvg-logo="http://103.176.90.118/picons-dino/logos/DD-UP.png" group-title="|AS| INDIA",IN - DD UP
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281326
 #EXTINF:-1 tvg-id="5" tvg-name="IN: STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR PLUS HD
 http://xx96.uk:8880/44676990/10884764/326092
 #EXTINF:-1 tvg-id="6" tvg-name="IN: STAR PLUS SD Low Net" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR PLUS SD Low Net
@@ -183,6 +199,8 @@ http://xx96.uk:8880/44676990/10884764/1043119
 http://xx96.uk:8880/44676990/10884764/1043123
 #EXTINF:-1 tvg-id="92" tvg-name="IN: Planet Fun HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9a1de0e867e7bf9d1e15b3d2b1e44410.png" group-title="IN - KIDS CARTOON - LIVE",IN: Planet Fun HD
 http://xx96.uk:8880/44676990/10884764/191551
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="IN - FOOD FOOD UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/FOOD-FOOD.jpeg" group-title="|AS| INDIA",IN - FOOD FOOD UHD
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281327
 #EXTINF:-1 tvg-id="93" tvg-name="IN: ANIMAL PLANET ENG HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/77879330041.png" group-title="IN - DOCUMENTARY - LIVE",IN: ANIMAL PLANET ENG HD
 http://xx96.uk:8880/44676990/10884764/586730
 #EXTINF:-1 tvg-id="94" tvg-name="IN: ANIMAL PLANET HINDH HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3174409551.jpg" group-title="IN - DOCUMENTARY - LIVE",IN: ANIMAL PLANET HINDH HD
@@ -257,6 +275,10 @@ http://xx96.uk:8880/44676990/10884764/325248
 http://xx96.uk:8880/44676990/10884764/179139
 #EXTINF:-1 tvg-id="129" tvg-name="IND:  CNBC Awaaz HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5e0a48dcf6617d5b7bf4b35870b00308.png" group-title="IN - Hindi News - Live",IND:  CNBC Awaaz HD
 http://xx96.uk:8880/44676990/10884764/325247
+#EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="IN - MIRROR NOW" tvg-logo="http://103.176.90.118/picons-dino/logos/Mirror_Now.png" group-title="|AS| INDIA",IN - MIRROR NOW
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281386
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="IN - ZEE BUSINESS" tvg-logo="http://103.176.90.118/picons-dino/logos/zeebusiness.jpg" group-title="|AS| INDIA",IN - ZEE BUSINESS
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281437
 #EXTINF:-1 tvg-id="130" tvg-name="IND:  Republic TV HD ( English" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4055b9a0677bb764c3aadf230d54e52a.png" group-title="IN - Hindi News - Live",IND:  Republic TV HD ( English
 http://xx96.uk:8880/44676990/10884764/696332
 #EXTINF:-1 tvg-id="131" tvg-name="IND: Times Now Navbharat HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/86ba5906ea22330a84bc5a1e91134151.png" group-title="IN - Hindi News - Live",IND: Times Now Navbharat HD
