@@ -375,8 +375,8 @@ http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/281656
 http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/577219
 #EXTINF:-1 tvg-name="CNN Intl [HD]" tvg-logo="https://logo.protv.cc/piconsnew/cnninternational.png" group-title="News - English",CNN Intl [HD]
 http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/551998
-#EXTINF:-1 tvg-name="BBC News [SD]" tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BBCNEWS.png" group-title="News - English",BBC News [SD]
-http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/1389134
+#EXTINF:-1 tvg-id="US-BBC world News" tvg-name="USA - BBC WORLD NEWS HD" tvg-logo="https://logo.protv.cc/piconsnew/bbcworldnews.png" group-title="|NA| USA NEWS",USA - BBC WORLD NEWS HD
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/551984
 #EXTINF:-1 tvg-name="BBC News [4K]" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="News - English",BBC News [4K]
 http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/577228
 #EXTINF:-1 tvg-name="BBC News [FHD]" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="News - English",BBC News [FHD]
@@ -401,8 +401,10 @@ http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/845405
 http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/469315
 #EXTINF:-1 tvg-name="ABC Australia" tvg-logo="http://103.176.90.118/picons-dino/logos/TFC-.jpg" group-title="News - English",ABC Australia
 http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/839580
-#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7cc0dd4cb81a930b6cd402563aa0c236.png" group-title="News - English",Russia Today
-http://xx96.uk:8880/44676990/10884764/32098
+#EXTINF:-1 tvg-id="" tvg-name="VIP - RUSSIA TODAY UHD" tvg-logo="https://logo.protv.cc/piconsnew/russiatoday.png" group-title="|AF| DSTV AFRIQUE",VIP - RUSSIA TODAY UHD
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/311648
+#EXTINF:-1 tvg-id="" tvg-name="AR - NHK WORLD JAPAN LQ" tvg-logo="http://51.158.145.100/picons/logos/arabic/924657.png" group-title="|AR| ARABIC FULL SD",AR - NHK WORLD JAPAN LQ
+http://line.dino.ws:80/5d67766dbb/fjwypx6t7i/924657
 #EXTINF:-1 tvg-name="Hungama [SD]" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/eb956ec4772e3ca67ed036f83c447e87.png" group-title="Kids - Hindi",Hungama [SD]
 http://xx96.uk:8880/44676990/10884764/1043119
 #EXTINF:-1 tvg-name="Hungama [SD]" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HUNGAMA-KIDS.png" group-title="Kids - Hindi",Hungama [SD]
